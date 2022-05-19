@@ -679,7 +679,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * If someone is loading in during extraction (but before the drop pod loads in), the drop pod will wait for that person to load before coming in.
 
-* At higher hazards, every praetorian that spawns has a 1/6 chance to promote to an Oppressor. [Source](https://karl.gg/blog/12#/)
+* Grunts and praetorians have different chances to upgrade to slashers/guards and oppressors depending on hazard level. [Source](https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing)
 
 * Loot bugs are attracted to and can eat loose mineral chunks, including red sugar.
   * On top of what they normally drop on death, loot bugs release 1.5x whatever they ate. [Source](https://deeprockgalactic.fandom.com/wiki/Loot_Bug)
