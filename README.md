@@ -194,7 +194,8 @@ These tips are useful once you’ve got the basics down.
 * Pickaxe a frozen dwarf to help unfreeze them. Power attack to instantly fully unfreeze them.
 
 * Every mission has a set spawn pool. Any enemy included in the spawn pool can be spawned, any enemy not in the spawn pool won’t be. So if you see one leech, look out for more.
-  * A spawn pool can have at most 3 “disruptive enemy” types. The following are disruptive enemies: detonators, shellbacks, goo bombers, grabbers, menaces, and wardens. So if you see a goo bomber, grabber, and shellback, you have no chance of getting a bulk. [Source 1](https://devtrackers.gg/deep-rock-galactic/p/f901d71e-lets-talk-about-bulk-detonators-in-salvage-missions), [Source 2](https://www.reddit.com/r/DeepRockGalactic/comments/qs8l4t/enemies_and_how_they_spawn_what_secrets_do_you/hkbjqbg/)
+  * A spawn pool can have up to 3 “disruptive enemy” types. The following are disruptive enemies: detonators, shellbacks, goo bombers, grabbers, menaces, and wardens. So if you see a goo bomber, grabber, and shellback, you have no chance of getting a bulk. [Source 1](https://devtrackers.gg/deep-rock-galactic/p/f901d71e-lets-talk-about-bulk-detonators-in-salvage-missions), [Source 2](https://www.reddit.com/r/DeepRockGalactic/comments/qs8l4t/enemies_and_how_they_spawn_what_secrets_do_you/hkbjqbg/)
+  * There are a lot more spawn mechanics, here is an [in-depth video](https://youtu.be/tLiX_GJRdWw) on spawn pools.
 
 * Look out for visuals of falling chunks dirt/rocks, it can indicate that enemies are spawning nearby. Note that silicate harvesters make the same effect, so don’t get bamboozled.
 
