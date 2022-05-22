@@ -416,6 +416,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 <summary>Click to expand</summary>
 
 * The most useful scout trick is powerattacking a wall while grappling towards it and landing in the resulting hole. This takes a lot of practice, but when mastered, makes you much less dependent on platforms.
+	
+* If you're having trouble making a ledge to stand in - maybe the wall is curved inward - grapple to the wall and call the MULE while holding your grapple. Wait until it stops under you to let go of the grapple.
 
 * (Client only) With hoverclock, jump and tap the trigger to levitate forward through the air.
 
