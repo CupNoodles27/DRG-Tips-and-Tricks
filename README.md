@@ -808,6 +808,8 @@ This area is for tips that no longer work.
 (u/SplitSentro): [DRG Guides Catalogue](https://drive.google.com/drive/folders/1EzKinPKOD1cVcjT7q8b4lvhW-ZwB52si) - Contains a TON of info and tech
 
 [The Wiki](https://deeprockgalactic.fandom.com/wiki/Deep_Rock_Galactic_Wiki)
+	
+[DRG Cheat Sheet](https://drg.guide/)
 
 [Builds for every weapon](https://docs.google.com/spreadsheets/d/1cet1j7oWgf9_UjtttDUrumRdctBjsczZwjnY6x_Q4y0/)
 
