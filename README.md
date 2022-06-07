@@ -595,6 +595,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * When EPC mining, shoot from the side (parallel to the vein/wall) for easier timing.
 
 * Throw a C4 at a 45 degree angle upwards (you can use your drills to align the angle) and hit it with an axe while it's in the air. The C4 will float midair. Don’t do this if you have the upgrade that makes the C4 explode when it’s hit.
+  * This also works with any projectile, including EPC shots.
 
 * C4 inherits your momentum, which can be combined with Dash to launch a C4 a significant distance, which is very useful for airbursting swarms of mactera or hitting Dreadnaughts from a safe distance. (u/Asian_Jake_Paul1)
 
