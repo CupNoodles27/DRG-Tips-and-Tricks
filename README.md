@@ -763,6 +763,9 @@ This area is for tips that no longer work.
   * On missions without the MULE (Point Extraction and Refinery), spam the deposit button on the depositing station to deposit faster.
 
 * [Engi] You can trigger EM discharge on unbuilt turrets, as well as turrets that are flying to you.
+	
+* [Driller] You can throw an axe on the ground and destroy the terrain under the axe (e.g. with C4). The axe will stay where it landed (now midair) and you can jump on it to stay midair and cheese melee enemies
+  * You can also stand on axes stuck in walls.
 
 * [Advanced] If you’re swinging your pickaxe while grabbing something (such as an apoca or an impact axe), you will cancel the grab animation. [Example](https://youtu.be/iO1_5HNBUWQ)
 
