@@ -608,6 +608,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * EPC charged shots with TCF can be exploded by anything, including teammate's shots. Axes also work and can be retrieved.
 
 * EPC shots and charged shots give off a little light, so you can use it to scout out dark areas and ceilings.
+	
+* Regular EPC shots travel at 35 meters per second (with the projectile velocity upgrade, they travel at 43.75 m/s). EPC charged shots travel at 13.33 m/s.
 
 * The flamethrower and cryocannon ignore the dreadnought's armor and will damage the dreadnought through it.
 
