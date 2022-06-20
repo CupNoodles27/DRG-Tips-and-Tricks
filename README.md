@@ -311,6 +311,8 @@ These tips are useful once you’ve got the basics down.
 * Dig out the terrain from under the root of a stabber vine to destroy it.
 	
 * During ebonite machine events, a pickaxe supercharging canister will linger for a short time after being picked up. So after a teammate picks up a canister, if you're quick, you can get the effect from the same canister. [Example](https://www.twitch.tv/videos/1239805870)
+	
+* A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it. Additionally, only the bottom part of the body has a hitbox. The large bag on top of the body won't be hit.
 
 </details>
 
