@@ -522,6 +522,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * If you shoot a platform on something where it will instantly disappear (e.g. a resupply or doretta), if you’re quick, you can still place a turret on that platform. This can let you put down a turret mid-air on top of doretta. You can also do this with prox mines, but this requires tight timing - you need to stand at an angle when shooting the plat so you end up closer to it when throwing the prox mine. [Example](https://youtu.be/lJlbqUkXd8U)
 
+* Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
+
 </details>
 
 <hr>
