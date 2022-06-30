@@ -524,6 +524,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
 
+* Shard diffractor can burn spiderwebs.
+
 </details>
 
 <hr>
