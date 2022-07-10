@@ -446,6 +446,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * With the M1000, you can start focusing and fire before fully focusing to fire an accurate hipshot.
 
+* Swapping bolts immediately after firing the crossbow will replace the reload animation with the bolt-swapping animation. The bolt still gets reloaded and you get to use the alternate bolt immediately.
+
 * With Embedded Detonators on the Zhukov, you can shoot something, switch to a different weapon before the mag runs out, reload the Zhukov with Born Ready, then shoot again. The detonators from before will stay and won’t be triggered. This can let you nuke a dreadnought twin, for example.
 
 * Grapple past a detonator to make it slam and potentially hurt nearby enemies.
