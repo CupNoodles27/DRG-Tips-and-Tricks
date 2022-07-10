@@ -408,6 +408,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * You take zero fall damage while frozen.
 
+* You can make elevator plants go up/down by pickaxing the yellow bulb. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/vvfzga/whats_some_random_trivia_you_know_about_the_game/ifjpwrv/)
+
 </details>
 
 <hr>
