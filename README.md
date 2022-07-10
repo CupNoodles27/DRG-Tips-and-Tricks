@@ -507,8 +507,10 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * When you place a platform on minerals, the platform will take one hit to destroy, and so will the minerals. Useful for ground minerals. This does not make you lose any minerals.
 
 * Breach cutter goes through walls.
+	
+* Throwing a LURE and then placing a platform or two over the LURE can help protect it against ranged enemies.
 
-* Grabbers can grab and carry away a LURE.
+* Grabbers can grab and carry away a LURE. The Nemesis can also grab LUREs.
 
 * The PGL, plasma bursters, and prox mines can all fear enemies, which makes them great for crowd control.
 
