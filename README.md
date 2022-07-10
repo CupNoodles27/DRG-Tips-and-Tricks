@@ -472,6 +472,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * During the heartstone fight, you can cover doretta with a platform roof to block the flying rocks and avoid having to shoot them. Make sure the roof is high enough to avoid rock splash damage, and low enough to catch all the rocks. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/kkqq4e/engineer_heartstone_tech/)
 
 * Shoot the tips of heartstone lasers with your PGL to disable them.
+	
+* Firing the shard diffractor for a short time then cancelling it by swapping weapons or hitting your pickaxe/laser pointer will make it instantly recharge. Likely a bug.
 
 * Put platforms near the tops of the lasers so Scout can easily mine the tips.
 
