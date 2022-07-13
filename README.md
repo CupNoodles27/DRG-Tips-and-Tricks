@@ -259,7 +259,7 @@ These tips are useful once you’ve got the basics down.
 
 * Machine events have a 15%/20%/35% chance of spawning, depending on the length of the mission. [Source](https://deeprockgalactic.fandom.com/wiki/Machine_Events)
 
-* Machine events give a decent amount of experience, even if you fail (the timer just needs to run out). So even if you can’t do a machine event, start it up for the XP.
+* Machine events give a decent amount of experience. You don't need to succeed and you can even extract while the event is still running and you'll still get the XP. So even if you can’t do a machine event, start it up for the XP.
 
 * You can tell beforehand what the OMEN will attack you with by looking at each of the three sections with your laser pointer. The bottom will always be the radial purple lasers. In addition, if you stand on the core infuser (the white thing you put matrix cores in), the OMEN platform opposite from you to the OMEN tower is the one that exposes the radial lasers (the bottom part). The OMEN platform to your right exposes the top part. The OMEN platform to your left exposes the middle part. Focusing the bottom part is usually the easiest way to defeat the OMEN.
   * The OMEN is the most dangerous machine event. However, it can be made much easier if the engineer prepares well. See the engineer section.
