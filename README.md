@@ -663,7 +663,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * Drill under a loot bug to make it flip upside down. Then it’ll scatter minerals downwards when it dies. Useful for golden loot bugs. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t21335/tip_flip_golden_loot_bugs_upside_down_to_collect/)
 
-* [?] You can drill into the ground and ledge grab as you fall to try and cancel fall damage
+* You can drill into the ground and ledge grab as you fall to cancel fall damage. [Example](https://www.youtube.com/watch?v=qAj5yfhTAaU)
 
 * [?] You can ledge grab off EPC shots as host to cancel all fall damage
 
