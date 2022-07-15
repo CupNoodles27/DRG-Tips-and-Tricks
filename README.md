@@ -368,7 +368,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * If both dwarves have the upgrade that gives 6 seconds of invulnerability after a revive, they can chain revive each other.
 
-* Armor breaking is a bit bugged. See [this doc](https://docs.google.com/document/d/e/2PACX-1vT4IR8IcWvzlNVjC0VELKQm7RkLVJwOogYK_wEtz0Npf8_QlPyULvb7-boo2EubTNkrvBkvh9QfOOB6/pub).
+* Armor breaking is a bit bugged. See [this doc](https://docs.google.com/document/d/1l7TSN99lW4LpHSArf5wyw1zAHQV4TUtdgHwWhzsj1p8/).
 
 * A loose mineral could indicate that there’s a lost pack nearby. Make sure that it couldn’t have come from mining or a cargo crate. [Example](https://imgur.com/a/XDb564L)
 
