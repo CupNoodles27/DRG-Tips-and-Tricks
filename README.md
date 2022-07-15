@@ -480,6 +480,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * Put platforms near the tops of the lasers so Scout can easily mine the tips.
 
 * Smart use of bug repellant platforms can funnel enemies. Bug repellant platforms count as double the distance for the purpose of enemy pathfinding. The MULE uses the same pathfinding algorithm, so you can call the MULE to see if your bug repellant setups are working.
+  * A bug repellant platform will cover some terrain next to the platform with bug repellant as well. Here is a nice [video visualization](https://www.youtube.com/watch?v=m8P3t9qJHu4) of the area that gets the bug repellant.
 
 * Hold the reload button to recall your turrets.
 
