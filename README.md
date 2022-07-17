@@ -583,6 +583,8 @@ The max number of enemies that can aggro on you is 32.
 * After gunner's shield generator goes down, it spends time flying back to him before it actually begins recharging.
 
 * The shield generator gives 50% damage reduction to anyone inside, which can reduce fall damage. It also forces bugs to leave it (except shellbacks, trawlers, and patrol bots), and blocks projectiles from the outside, including allied projectiles.
+	
+* If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while reloading or out of ammo. This does not work with the autocannon's damage resistance upgrade.
 
 * Gunner has an armor upgrade that gives 50% explosive resistance, which makes him unexpectedly tanky against bulk detonators, dreadnought slams, and C4.
 
