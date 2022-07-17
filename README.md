@@ -512,6 +512,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * When you place a platform on minerals, the platform will take one hit to destroy, and so will the minerals. Useful for ground minerals. This does not make you lose any minerals.
 
 * Breach cutter goes through walls.
+
+* Breach cutter benefits from hitting weakpoints. This is especially noticeable for enemies like spitballers and menaces.
 	
 * Throwing a LURE and then placing a platform or two over the LURE can help protect it against ranged enemies.
 
