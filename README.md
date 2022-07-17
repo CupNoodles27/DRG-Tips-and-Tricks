@@ -205,7 +205,7 @@ These tips are useful once you’ve got the basics down.
 
 * Lure a Crassus detonator into a small tunnel to get more gold when it explodes. The driller can make this tunnel anywhere. If done right, you’ll get up to around 1230 gold. [Source](https://deeprockgalactic.fandom.com/wiki/Glyphid_Crassus_Detonator)
   * Crassus detonators can only spawn (with a 3% chance) when the map is generated. They will not spawn afterwards.
-  * [?] If you shoot some platforms at the edge of the explosion radius, the Crassus explosion can make gold from those platforms. Not sure if this works, just thought of it.
+  * If you shoot some platforms at the edge of the explosion radius, the Crassus explosion can make gold from those platforms.
 
 * Every five OCs you forge adds 1 to your Forge level and gives you a free OC. Assuming you forge every OC, you’ll run out of OCs to get/forge at forge level 93.
 
