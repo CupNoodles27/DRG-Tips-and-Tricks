@@ -398,6 +398,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * Hold your pickaxe button before resupplying to pickaxe while resupplying.
 
 * You can enter the drop pod before it opens by jumping against a specific spot to the left of where the MULE usually enters. This is inconsistent, but even if you can’t get it to work, you still get the drop pod damage reduction while trying. [Example](https://www.youtube.com/watch?v=JJuDCdBRq0E)
+	
+* When playing in a team on mining and escort missions, at the end of the mission, if one person runs very far back through the cave, they can end up making the drop pod land much closer to where the MULE and the rest of the team is.
 
 * Rain in the dense biozone and crystalline caverns makes you immune to fire and heat. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/u6km5l/not_so_known_gameplay_tips_for_til/i58x9bo/)
 
