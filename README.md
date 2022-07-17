@@ -641,6 +641,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * Don't drill at more than 45 degrees when building pipelines, otherwise it will be too steep.
 
 * Drills can stunlock enemies (e.g. grunts or huuli hoarders). Useful if you have no better alternative.
+	
+* Drills benefit from hitting weakpoints. This is especially noticeable when using drills on a frozen brood nexus.
 
 * If you’re going to overfill on axes when resupplying, throw some axes on the ground before resupplying. Then you can collect them later.
 
