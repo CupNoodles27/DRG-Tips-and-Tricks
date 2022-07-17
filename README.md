@@ -555,8 +555,7 @@ The max number of enemies that can aggro on you is 32.
 <details>
 <summary>Click to expand</summary>
 
-* Autocannon, minigun, hurricane, and revolver can mine minerals and red sugar. They can also destroy the tips of heartstone lasers.
-  * [?] This will get you less of the mineral than if you used your pickaxe. (Can test in DD/EDD, since they’re pre-seeded)
+* Autocannon, minigun, hurricane, and revolver can mine minerals and red sugar. This will get you the same amount of mineral as if you used your pickaxe. These weapons can also destroy the tips of heartstone lasers.
   
 * The plasma burster missile OC on gunner’s hurricane 1-shots flying rocks in the heartstone fight. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/vvfzga/whats_some_random_trivia_you_know_about_the_game/ifjxnx4/)
 
