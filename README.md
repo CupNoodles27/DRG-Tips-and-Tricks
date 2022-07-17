@@ -327,7 +327,8 @@ These are niche/fun tips that you probably won't need. You should only take adva
 <details>
 <summary>Click to expand</summary>
 
-* [Only works as host as of S2] You can throw grenades/axes much faster than with normal animation canceling. [Source 1](https://www.youtube.com/watch?v=TP0Hp3k_CPE), [Source 2](https://www.reddit.com/r/DeepRockGalactic/comments/ri68mq/instantly_killing_a_dreadnought_twin_with_axe/). There is an easy (cheesy) way to do this; see the “Other guides/info” section of this doc.
+* [Much easier as host] You can throw grenades/axes much faster than with normal animation canceling. [Source 1](https://www.youtube.com/watch?v=TP0Hp3k_CPE), [Source 2](https://www.reddit.com/r/DeepRockGalactic/comments/ri68mq/instantly_killing_a_dreadnought_twin_with_axe/). There is an easy (cheesy) way to do this; see the “Other guides/info” section of this doc.
+  * As of season 2 this became much more difficult for clients to do and requires frame perfect timing from the client.
 
 * You can destroy projectiles from spitballers, korloks, and dreadnought fireballs by shooting the projectiles midair. You can also pickaxe them, drill them, and throw objects into them. [Examples](https://www.reddit.com/r/DeepRockGalactic/comments/sqm0hw/remember_as_driller_you_can_always_fight/hwmlmck/). Fully built turrets can work, but their hitboxes are much smaller now than in the given example.
 
