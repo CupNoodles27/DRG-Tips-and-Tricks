@@ -287,6 +287,8 @@ These tips are useful once you’ve got the basics down.
 * For any action that requires you to hit E (or the equivalent interact button), holding E will let you automatically do that action once it’s possible. For example, holding E will let you revive a teammate as soon as you get in range, or pick up an aquarq as soon as it is mined out.
 
 * Going downhill on a pipeline gives you a lot of momentum, letting you jump off at high speeds. Land back on a pipe after jumping for extra cool points.
+	
+* While riding a pipeline, holding E will automatically make you stop at the next section that needs to be built/repaired.
 
 * On salvage missions, each mini mule gives 40-60 nitra and 40-60 gold when repaired. [Source](https://deeprockgalactic.fandom.com/wiki/Salvage_Operation)
 
