@@ -350,7 +350,9 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * Doretta becomes invincible to all damage for about 2 seconds when you repair it to 100% - this can even block detonator explosions. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t48lca/keep_calm_timed_repair/)
 
-* Jump on the MULE to mess with ground enemy AI. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
+* Jump on top of the MULE to mess with ground enemy AI. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
+
+* You can use Molly to bounce yourself high in the air - [example1](https://www.reddit.com/r/DeepRockGalactic/comments/w2wqqe/ziplines_where_were_going_we_dont_need_ziplines/), [example 2](https://youtu.be/BJAPceNyh04). Call molly, get on top of molly, then jump right as molly stands up. [Multiplayer example](https://www.reddit.com/r/DeepRockGalactic/comments/swyjdy/we_call_it_molly_hopping/)
 
 * Call a supply drop to knock out things in the ceiling, i.e. eggs, aquarqs, or lost packs. Use the permanent waypoint to help line up the drop.
 
@@ -376,8 +378,6 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * Armor breaking is a bit bugged. See [this doc](https://docs.google.com/document/d/1l7TSN99lW4LpHSArf5wyw1zAHQV4TUtdgHwWhzsj1p8/).
 
 * A loose mineral could indicate that there’s a lost pack nearby. Make sure that it couldn’t have come from mining or a cargo crate. [Example](https://imgur.com/a/XDb564L)
-
-* The “Molly hop” - not exactly sure what it is, but see here: [Example](https://www.reddit.com/r/DeepRockGalactic/comments/swyjdy/we_call_it_molly_hopping/), [video mirror](https://imgur.com/a/G7x47wC)
 
 * [Solo only] If you start performing a task like resupplying, building a pipeline, depositing, and so on, you can open the options menu (esc on PC), then let go of the button for doing that task, then close the options menu. You will keep doing the task without needing to hold down any buttons. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/sniymp/just_a_helpful_tipglitch/)
 
