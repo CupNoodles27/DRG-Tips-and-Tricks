@@ -375,8 +375,6 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * If both dwarves have the upgrade that gives 6 seconds of invulnerability after a revive, they can chain revive each other.
 
-* Armor breaking is a bit bugged. See [this doc](https://docs.google.com/document/d/1l7TSN99lW4LpHSArf5wyw1zAHQV4TUtdgHwWhzsj1p8/).
-
 * A loose mineral could indicate that there’s a lost pack nearby. Make sure that it couldn’t have come from mining or a cargo crate. [Example](https://imgur.com/a/XDb564L)
 
 * [Solo only] If you start performing a task like resupplying, building a pipeline, depositing, and so on, you can open the options menu (esc on PC), then let go of the button for doing that task, then close the options menu. You will keep doing the task without needing to hold down any buttons. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/sniymp/just_a_helpful_tipglitch/)
@@ -870,6 +868,8 @@ This area is for tips that no longer work.
 [[Wiki] Tips, Tricks, and Strategies](https://deeprockgalactic.fandom.com/wiki/Tips,_tricks_and_strategies)
 
 [FAQ for Troubleshooting Misc. Bugs & Crashes](https://steamcommunity.com/sharedfiles/filedetails/?id=2559182673)
+
+[All armor breaking bugs](https://docs.google.com/document/d/1l7TSN99lW4LpHSArf5wyw1zAHQV4TUtdgHwWhzsj1p8/)
 
 (PC) If you install mods from mod.io, you can find your mod files at C:\Users\Public\mod.io and C:\Users\[your username]\AppData\Local\mod.io.
 
