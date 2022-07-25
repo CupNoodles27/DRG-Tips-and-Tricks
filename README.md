@@ -563,6 +563,8 @@ The max number of enemies that can aggro on you is 32.
 * Autocannon is useful for looking for cave leeches in the dark. Just spray the ceiling and see if any cave leech health bars pop up.
 
 * Volatile bullets on the revolver adds fire damage, which makes it weaker against fire-resistant enemies like oppressors and stronger against fire-weak enemies like spitballers and brundles.
+	
+* The minimum zipline angle needed to be able to move faster when going downwards is 5°. The higher the angle, the faster you can go downwards.
 
 * Taking too much damage will make you fall off a zipline.
 
