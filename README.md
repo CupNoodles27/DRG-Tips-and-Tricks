@@ -455,7 +455,9 @@ The max number of enemies that can aggro on you is 32.
   * Often with nitra you don’t need a power attack. Since the nitra is so thick, just tap the top of it to make a ledge.
 
 * Using a cryo grenade on a shellback, trawler, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo nade can make all of them easy to destroy.
-	
+
+* Enemies that are on fire can spread heat to other nearby enemies. This is useful for white phosphorus shells on the boomstick and aggressive venting on the DRAK. [Example use 1](https://www.reddit.com/r/DeepRockGalactic/comments/rgc005/why_every_scout_should_take_white_phosphorus/), [example use 2](https://www.youtube.com/watch?v=ocQiys-GVco)
+
 * You can "reload" your grappling hook right before firing it. Doesn’t really do anything, but looks cool. [Example](https://youtu.be/UJWdpC4YRPw)
 
 * With the M1000, you can start focusing and fire before fully focusing to fire a pinpoint accurate hipshot.
