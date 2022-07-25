@@ -715,6 +715,8 @@ The max number of enemies that can aggro on you is 32.
 * Regular damage shows up as white on an enemy’s health bar; weakpoint damage shows up as yellow.
 
 * Doretta’s head will pop off after the heartstone is completed. If you bring the head back into the drop pod, it’ll show up on the mission ending screen.
+	
+* Having Bosco mine a mineral vein can yield a tiny bit less than if a dwarf mined it. [Example](https://youtu.be/Wc-uWD9w60k)
 
 * As gunner, when extracting, shoot a zipline into the drop pod. Once everyone's in the pod and locked in place, you can grab the zipline and hop out. This used to work if you grappled into the pod and held your grapple as scout, but not anymore. Note that if you leave the drop pod this way, you'll lose a small amount of credits from the survival bonus.
 
