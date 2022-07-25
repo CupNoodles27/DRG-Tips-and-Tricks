@@ -281,7 +281,7 @@ These tips are useful once you’ve got the basics down.
 
 * All flying enemies instantly die when frozen. This is particularly useful for naedocyte breeders.
 
-* Shellbacks don't stop when frozen, but still take triple damage and can thus be 1-shot with a throwing axe when frozen.
+* Shellbacks don't stop when frozen, but still take triple damage and can thus be 1-shot with a throwing axe when frozen. Trawlers, flying rocks, and BET-C also move normally when frozen, and also take triple damage.
 
 * Press/hold shift while grinding on a pipe to center your view.
 
