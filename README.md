@@ -38,6 +38,8 @@ These are things everyone should know and can use all the time.
 * On refinery missions, ping a pipeline (that has already been laid) to make bosco build it or repair it.
 
 * Ping the drilldozer or HACK-C to make bosco prioritize defending them.
+	
+* On drilldozer missions, in the last phase of the ommoran heartstone fight, ping the tips of laser beamers to have Bosco mine them.
 
 * Ctrl+e sets a permanent waypoint that stays on your terrain scanner, and is visible when you pull out your laser pointer
 
