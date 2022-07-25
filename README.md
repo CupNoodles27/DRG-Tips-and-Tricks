@@ -454,9 +454,11 @@ The max number of enemies that can aggro on you is 32.
 * If there's something high up you need to mine, grapple + power attack to make a ledge in the wall to stand in, then mine from there.
   * Often with nitra you don’t need a power attack. Since the nitra is so thick, just tap the top of it to make a ledge.
 
+* Using a cryo grenade on a shellback, trawler, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo nade can make all of them easy to destroy.
+	
 * You can "reload" your grappling hook right before firing it. Doesn’t really do anything, but looks cool. [Example](https://youtu.be/UJWdpC4YRPw)
 
-* With the M1000, you can start focusing and fire before fully focusing to fire an accurate hipshot.
+* With the M1000, you can start focusing and fire before fully focusing to fire a pinpoint accurate hipshot.
 
 * Swapping bolts immediately after firing the crossbow will replace the reload animation with the bolt-swapping animation. The bolt still gets reloaded and you get to use the alternate bolt immediately.
 
@@ -822,8 +824,6 @@ This area is for tips that no longer work.
 
 * As Scout, you could grapple into the drop pod during extraction, hold onto that grapple, then release after everyone else got locked in place. Then you could move around and leave the pod while everyone else couldn’t.
 
-* If there was an axe on the ground, you could cancel fall damage by picking up the axe while falling.
-
 * You could cryo grenade a regular dreadnought in the face to instantly freeze it. Doesn’t seem to work anymore.
 
 * [?] You could exit the map by shooting platforms at someone who’s standing against a wall. Shoot at their head, then at their feet, then at their knees. Easier to do on a vertical wall, and can be done solo.
@@ -832,7 +832,7 @@ This area is for tips that no longer work.
 
 * The autocannon used to do zero friendly fire damage before update 35 (Season 1).
 
-* You used to be able to freeze dreadnoughts with 1 cryo grenade by throwing the cryo in their face. (Fixed in update 35?)
+* You used to be able to freeze regular dreadnoughts with 1 cryo grenade by throwing the cryo in their face. (Fixed in update 35?)
 
 * Before update 35, when you did the Minigun idle reload animation (spinning the barrels), if you canceled the animation the barrels would continue to spin even after canceling. This no longer works and the barrels remain stationary after canceling the animation. (u/Asian_Jake_Paul1)
 
