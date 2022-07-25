@@ -349,7 +349,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * Removing the terrain from under a honeycomb will instantly kill it (does not work for any other stationary enemies).
 
-* Doretta becomes invincible to all damage for about 2 seconds when you repair it to 100% - this can even block detonator explosions. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t48lca/keep_calm_timed_repair/)
+* Doretta becomes invincible to all damage for 4 seconds when you repair it to 100% - this can even block detonator explosions. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t48lca/keep_calm_timed_repair/)
 
 * Jump on top of the MULE to mess with ground enemy AI. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
 
