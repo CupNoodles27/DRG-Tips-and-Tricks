@@ -497,6 +497,7 @@ The max number of enemies that can aggro on you is 32.
 
 * Smart use of bug repellant platforms can funnel enemies. Bug repellant platforms count as double the distance for the purpose of enemy pathfinding. The MULE uses the same pathfinding algorithm, so you can call the MULE to see if your bug repellant setups are working.
   * A bug repellant platform will cover some terrain next to the platform with bug repellant as well. Here is a nice [video visualization](https://www.youtube.com/watch?v=m8P3t9qJHu4) of the area that gets the bug repellant.
+  * The [pyramid setup](https://www.reddit.com/r/DeepRockGalactic/comments/lbvg8b/to_haz4_engineers/glwl6mx/) works extremely well due to the aforementioned property of bug repellant platforms affecting nearby terrain.
 
 * Hold the reload button to recall your turrets.
 
