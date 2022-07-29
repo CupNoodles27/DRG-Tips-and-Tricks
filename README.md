@@ -610,6 +610,8 @@ The max number of enemies that can aggro on you is 32.
 
 * Throwing a sticky grenade on a shield as it’s expanding will make the grenade expand in size as well. Can make the grenade enormous, but does not affect the actual explosion. [Example](https://youtu.be/Arzb3y02ig0)
 
+* [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
+
 </details>
 
 <hr>
