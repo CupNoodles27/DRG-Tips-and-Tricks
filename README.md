@@ -281,7 +281,7 @@ These tips are useful once you’ve got the basics down.
 
 * All flying enemies instantly die when frozen. This is particularly useful for naedocyte breeders.
 
-* Shellbacks don't stop when frozen, but still take triple damage and can thus be 1-shot with a throwing axe when frozen. Trawlers, flying rocks, and BET-C also move normally when frozen, and also take triple damage.
+* Shellbacks don't stop when frozen, but still take triple damage and can thus be 1-shot with a throwing axe when frozen. Trawlers, flying rocks, BET-C, and Caretaker vents also move normally when frozen, and also take triple damage.
 
 * Press/hold shift while grinding on a pipe to center your view.
 
@@ -454,7 +454,7 @@ The max number of enemies that can aggro on you is 32.
 * If there's something high up you need to mine, grapple + power attack to make a ledge in the wall to stand in, then mine from there.
   * Often with nitra you don’t need a power attack. Since the nitra is so thick, just tap the top of it to make a ledge.
 
-* Using a cryo grenade on a shellback, trawler, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo nade can make all of them easy to destroy.
+* Using a cryo grenade on a shellback, trawler, BET-C, Caretaker vent, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo nade can make all of them easy to destroy.
 
 * Enemies that are on fire can spread heat to other nearby enemies. This is useful for white phosphorus shells on the boomstick and aggressive venting on the DRAK. [Example use 1](https://www.reddit.com/r/DeepRockGalactic/comments/rgc005/why_every_scout_should_take_white_phosphorus/), [example use 2](https://www.youtube.com/watch?v=ocQiys-GVco)
 
