@@ -38,7 +38,7 @@ These are things everyone should know and can use all the time.
 * On refinery missions, ping a pipeline (that has already been laid) to make bosco build it or repair it.
 
 * Ping the drilldozer or HACK-C to make bosco prioritize defending them.
-	
+
 * On drilldozer missions, in the last phase of the ommoran heartstone fight, ping the tips of laser beamers to have Bosco mine them.
 
 * Ctrl+e sets a permanent waypoint that stays on your terrain scanner, and is visible when you pull out your laser pointer
@@ -119,7 +119,7 @@ These tips are useful once you’ve got the basics down.
   * The faster your reload, the less time you save by reload canceling (you also save a smaller percentage of time). Keep that in mind when you’re thinking of taking a reload speed upgrade. [Source](https://www.youtube.com/watch?v=TQ0-ysX-ZX4)
 * Cancel grenade animations the same way. Useful if you need to throw multiple axes. As soon as the grenade leaves your hand, cancel the animation.
   * Frozen oppressors (on haz 5 with 4 players) take 2 axes to kill from full health, but they unfreeze quickly. Without animation canceling you can’t hit an oppressor with 2 axes before it unfreezes; with animation canceling, you can.
-  
+
 * Grenades inherit your momentum, just like flares. Sprint and jump to throw grenades further.
 
 * Cancel your power attack wind down animation by releasing the power attack button right after the power attack hits. Make sure to release the pickaxe button *afterwards*. [Example](https://imgur.com/a/p67YEUO)
@@ -135,7 +135,7 @@ These tips are useful once you’ve got the basics down.
 * Frozen enemies take 3x damage (although explosive damage is not multiplied). Frozen dreadnoughts take 2.5x damage.
 
 * Frozen wardens don’t grant their allies the half-damage and regeneration buffs.
-	
+
 * Wardens will occasionally stop and scream, after which some grunts are spawned near it. Stunning, freezing, or fearing the warden during the scream channel will cancel the grunt summons.
 
 * Macteras and swarmers instantly die after being frozen. Importantly, this includes naedocyte breeders. However, goo bombers are difficult to freeze.
@@ -292,7 +292,7 @@ These tips are useful once you’ve got the basics down.
 * For any action that requires you to hit E (or the equivalent interact button), holding E will let you automatically do that action once it’s possible. For example, holding E will let you revive a teammate as soon as you get in range, or pick up an aquarq as soon as it is mined out.
 
 * Going downhill on a pipeline gives you a lot of momentum, letting you jump off at high speeds. Land back on a pipe after jumping for extra cool points.
-	
+
 * While riding a pipeline, holding E will automatically make you stop at the next section that needs to be built/repaired.
 
 * On salvage missions, each mini mule gives 40-60 nitra and 40-60 gold when repaired. [Source](https://deeprockgalactic.fandom.com/wiki/Salvage_Operation)
@@ -316,11 +316,11 @@ These tips are useful once you’ve got the basics down.
   * If you dig out the terrain from under the root of the vine, it’ll also be destroyed.
 
 * Dig out the terrain from under the root of a stabber vine to destroy it.
-	
+
 * During ebonite machine events, a pickaxe supercharging canister will linger for a short time after being picked up. So after a teammate picks up a canister, if you're quick, you can get the effect from the same canister. [Example](https://www.twitch.tv/videos/1239805870)
-	
+
 * During tritilyte events, hit your laser pointer while holding a bomb to drop it without it exploding.
-	
+
 * A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it. Additionally, only the bottom part of the body has a hitbox. The large bag on top of the body won't be hit.
 
 </details>
@@ -403,7 +403,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * Hold your pickaxe button before resupplying to pickaxe while resupplying.
 
 * You can enter the drop pod before it opens by jumping against a specific spot to the left of where the MULE usually enters. This is inconsistent, but even if you can’t get it to work, you still get the drop pod damage reduction while trying. [Example](https://www.youtube.com/watch?v=JJuDCdBRq0E)
-	
+
 * When playing in a team on mining and escort missions, at the end of the mission, if one person runs very far back through the cave, they can end up making the drop pod land much closer to where the MULE and the rest of the team is.
 
 * Rain in the dense biozone and crystalline caverns makes you immune to fire and heat. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/u6km5l/not_so_known_gameplay_tips_for_til/i58x9bo/)
@@ -419,7 +419,7 @@ These are niche/fun tips that you probably won't need. You should only take adva
 * You take zero fall damage while frozen.
 
 * You can make elevator plants go up/down by pickaxing the yellow bulb. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/vvfzga/whats_some_random_trivia_you_know_about_the_game/ifjpwrv/)
-	
+
 The max number of enemies that can aggro on you is 32.
 
 </details>
@@ -434,9 +434,9 @@ The max number of enemies that can aggro on you is 32.
 <summary>Click to expand</summary>
 
 * The most useful scout trick is powerattacking a wall while grappling towards it and landing in the resulting hole. This takes a lot of practice, but when mastered, makes you much less dependent on platforms.
-	
+
 * If you're having trouble making a ledge to stand in - maybe the wall is curved inward - grapple to the wall and call the MULE while holding your grapple. Wait until it stops under you to let go of the grapple.
-	
+
 * After the season 2 update, you can now grab objects midair. This means you can do things like this [special powder throw](https://www.reddit.com/r/DeepRockGalactic/comments/ueol9u/introducing_the_special_powder_throw_for_strong/). You can do similar things with the grapple by tossing the object upwards first, then grappling towards it to catch it. And you can string together special powder shots and grapples to keep moving the object up/sideways.
   * If you're moving too fast, you will [drop the object](https://youtu.be/Tt4TAKWbugE). However, if you repeatedly try to grab the object, you can still bring it with you. [Example](https://discord.com/channels/736425774772387861/736426337622950028/980559855427387412)
 
@@ -490,7 +490,7 @@ The max number of enemies that can aggro on you is 32.
 * During the heartstone fight, you can cover doretta with a platform roof to block the flying rocks and avoid having to shoot them. Make sure the roof is high enough to avoid rock splash damage, and low enough to catch all the rocks. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/kkqq4e/engineer_heartstone_tech/)
 
 * Shoot the tips of heartstone lasers with your PGL to disable them.
-	
+
 * Firing the shard diffractor for a short time then cancelling it by swapping weapons or hitting your pickaxe/laser pointer will make it instantly recharge. Likely a bug.
 
 * Put platforms near the tops of the lasers so Scout can easily mine the tips.
@@ -533,7 +533,7 @@ The max number of enemies that can aggro on you is 32.
 * Breach cutter goes through walls.
 
 * Breach cutter benefits from hitting weakpoints. This is especially noticeable for enemies like spitballers and menaces.
-	
+
 * Throwing a LURE and then placing a platform or two over the LURE can help protect it against ranged enemies.
 
 * Grabbers can grab and carry away a LURE. The Nemesis can also grab LUREs.
@@ -566,13 +566,13 @@ The max number of enemies that can aggro on you is 32.
 <summary>Click to expand</summary>
 
 * Autocannon, minigun, hurricane, and revolver can mine minerals and red sugar. This will get you the same amount of mineral as if you used your pickaxe. These weapons can also destroy the tips of heartstone lasers.
-  
+
 * The plasma burster missile OC on gunner’s hurricane 1-shots flying rocks in the heartstone fight. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/vvfzga/whats_some_random_trivia_you_know_about_the_game/ifjxnx4/)
 
 * Autocannon is useful for looking for cave leeches in the dark. Just spray the ceiling and see if any cave leech health bars pop up.
 
 * Volatile bullets on the revolver adds fire damage, which makes it weaker against fire-resistant enemies like oppressors and stronger against fire-weak enemies like spitballers and brundles.
-	
+
 * The minimum zipline angle needed to be able to move faster when going downwards is 5°. The higher the angle, the faster you can go downwards.
 
 * Taking too much damage will make you fall off a zipline.
@@ -594,9 +594,9 @@ The max number of enemies that can aggro on you is 32.
 * After gunner's shield generator goes down, it spends time flying back to him before it actually begins recharging.
 
 * The shield generator gives 50% damage reduction to anyone inside, which can reduce fall damage. It also forces bugs to leave it (except shellbacks, trawlers, and patrol bots), and blocks projectiles from the outside, including allied projectiles.
-	
+
 * If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while reloading or out of ammo. This does not work with the autocannon's damage resistance upgrade.
-	
+
 * On the coilgun there is a way to have the damage resistance buff on at all times, even when not using the coilgun. To do this, take Controlled Magnetic Flow + Defence Enhancement + Triple Tech Chambers, then go into a mission, fully charge a shot, and fire the two residual shots. This effect lasts until you use the coilgun again, but doing the same trick will keep it going. This is definitely a bug, but it has been around for a while at this point.
 
 * Gunner has an armor upgrade that gives 50% explosive resistance, which makes him unexpectedly tanky against bulk detonators, dreadnought slams, and C4.
@@ -651,7 +651,7 @@ The max number of enemies that can aggro on you is 32.
 * EPC charged shots with TCF can be exploded by anything, including teammate's shots. Axes also work and can be retrieved.
 
 * EPC shots and charged shots give off a little light, so you can use it to scout out dark areas and ceilings.
-	
+
 * Regular EPC shots travel at 35 meters per second (with the projectile velocity upgrade, they travel at 43.75 m/s). EPC charged shots travel at 13.33 m/s.
 
 * The flamethrower and cryocannon ignore the dreadnought's armor and will damage the dreadnought through it.
@@ -664,8 +664,8 @@ The max number of enemies that can aggro on you is 32.
 
 * Don't drill at more than 45 degrees when building pipelines, otherwise it will be too steep.
 
-* Drills can stunlock enemies (e.g. grunts or huuli hoarders). Useful if you have no better alternative.
-	
+* Drills can stunlock enemies (e.g. grunts or huuli hoarders). Drills can also fear enemies. Useful if you have no better alternative.
+
 * Drills benefit from hitting weakpoints. This is especially noticeable when using drills on a frozen brood nexus.
 
 * If you’re going to overfill on axes when resupplying, throw some axes on the ground before resupplying. Then you can collect them later.
@@ -716,7 +716,7 @@ The max number of enemies that can aggro on you is 32.
 * Regular damage shows up as white on an enemy’s health bar; weakpoint damage shows up as yellow.
 
 * Doretta’s head will pop off after the heartstone is completed. If you bring the head back into the drop pod, it’ll show up on the mission ending screen.
-	
+
 * Having Bosco mine a mineral vein can yield a tiny bit less than if a dwarf mined it. [Example](https://youtu.be/Wc-uWD9w60k)
 
 * As gunner, when extracting, shoot a zipline into the drop pod. Once everyone's in the pod and locked in place, you can grab the zipline and hop out. This used to work if you grappled into the pod and held your grapple as scout, but not anymore. Note that if you leave the drop pod this way, you'll lose a small amount of credits from the survival bonus.
@@ -814,7 +814,7 @@ This area is for tips that no longer work.
   * On missions without the MULE (Point Extraction and Refinery), spam the deposit button on the depositing station to deposit faster.
 
 * [Engi] You can trigger EM discharge on unbuilt turrets, as well as turrets that are flying to you.
-	
+
 * [Driller] You can throw an axe on the ground and destroy the terrain under the axe (e.g. with C4). The axe will stay where it landed (now midair) and you can jump on it to stay midair and cheese melee enemies
   * You can also stand on axes stuck in walls.
 
@@ -858,7 +858,7 @@ This area is for tips that no longer work.
 (u/SplitSentro): [DRG Guides Catalogue](https://drive.google.com/drive/folders/1EzKinPKOD1cVcjT7q8b4lvhW-ZwB52si) - Contains a TON of info and tech
 
 [The Wiki](https://deeprockgalactic.fandom.com/wiki/Deep_Rock_Galactic_Wiki)
-	
+
 [DRG Cheat Sheet](https://drg.guide/)
 
 [Builds for every weapon](https://docs.google.com/spreadsheets/d/1cet1j7oWgf9_UjtttDUrumRdctBjsczZwjnY6x_Q4y0/)
