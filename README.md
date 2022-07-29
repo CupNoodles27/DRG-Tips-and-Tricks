@@ -704,6 +704,8 @@ These are niche/fun tips that you probably won't need.
 
 * [?] You can ledge grab off EPC shots as host to cancel all fall damage
 
+* Creating zones of hot rock in magma core by EPC mining or using C4 can act as a replacement for bug repellant platforms, since hot rock [repels bugs](https://www.youtube.com/watch?v=O9ZIRJq_LIU).
+
 </details>
 
 <hr>
