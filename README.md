@@ -331,7 +331,7 @@ These tips are useful once you’ve got the basics down.
 
 ## Advanced tips
 
-These are niche/fun tips that you probably won't need. You should only take advantage of these after the intermediates.
+These are niche/fun tips that you probably won't need.
 
 <details>
 <summary>Click to expand</summary>
@@ -422,7 +422,9 @@ These are niche/fun tips that you probably won't need. You should only take adva
 
 * You can make elevator plants go up/down by pickaxing the yellow bulb. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/vvfzga/whats_some_random_trivia_you_know_about_the_game/ifjpwrv/)
 
-The max number of enemies that can aggro on you is 32.
+* The max number of enemies that can aggro on you is 32.
+
+* Magma core hot rock repels bugs. [Example](https://www.youtube.com/watch?v=O9ZIRJq_LIU)
 
 </details>
 
