@@ -599,6 +599,8 @@ The max number of enemies that can aggro on you is 32.
 
 * On the coilgun there is a way to have the damage resistance buff on at all times, even when not using the coilgun. To do this, take Controlled Magnetic Flow + Defence Enhancement + Triple Tech Chambers, then go into a mission, fully charge a shot, and fire the two residual shots. This effect lasts until you use the coilgun again, but doing the same trick will keep it going. This is definitely a bug, but it has been around for a while at this point.
 
+* There is a [cheese platform strat](https://www.reddit.com/r/DeepRockGalactic/comments/ucoqpv/how_to_make_the_coilgun_do_1000_damage_per_shot/) to get huge damage on the coilgun with The Mole.
+
 * Gunner has an armor upgrade that gives 50% explosive resistance, which makes him unexpectedly tanky against bulk detonators, dreadnought slams, and C4.
 
 * The sticky grenade applies a huge fear on direct impact and also a fear on explosion. Sticking a sticky grenade on anything smaller than an oppressor is guaranteed to fear it and make it run away. This is useful for making praetorians turn around and run away.
