@@ -167,8 +167,6 @@ These tips are useful once you’ve got the basics down.
 
 * Blowthrough lets you shoot through the MULE.
 
-* Blowthrough can also let you hit multiple weakpoints on a brood nexus. Easiest if you stand under one weakpoint and aim up at another weakpoint.
-
 * Enemies that have after-death effects won't do them if they die while frozen. So frozen exploders, bulk detonators, praetorians, oppressors, and nexuses won't explode/release gas/release swarmers when they die.
 
 * Some enemies have breakable weakpoints (i.e. goo bombers and bulk detonators). Area damage can break these weakpoints, but will not benefit from the bonus weakpoint damage. So use direct damage on them first.
