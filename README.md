@@ -497,7 +497,7 @@ The max number of enemies that can aggro on you is 32.
 
 * Put platforms near the tops of the lasers so Scout can easily mine the tips.
 
-* Smart use of bug repellant platforms can funnel enemies. Bug repellant platforms add 19m to the distance for the purpose of enemy pathfinding - [source](https://www.reddit.com/r/DeepRockGalactic/comments/nl1ivw/bug_repellent_doesnt_work/gzg7ks9/?context=3). The MULE uses the same pathfinding algorithm, so you can call the MULE to see if your bug repellant setups are working.
+* Smart use of bug repellant platforms can funnel enemies. Bug repellant platforms add 19m to the distance for the purpose of enemy pathfinding - [source](https://www.reddit.com/r/DeepRockGalactic/comments/nl1ivw/bug_repellent_doesnt_work/gzg7ks9/?context=3).
   * A bug repellant platform will cover some terrain next to the platform with bug repellant as well. Here is a nice [video visualization](https://www.youtube.com/watch?v=m8P3t9qJHu4) of the area that gets the bug repellant. Another [video testing](https://www.youtube.com/watch?v=AiGERlCZ2VY) bug repellant setups.
   * The [pyramid setup](https://www.reddit.com/r/DeepRockGalactic/comments/lbvg8b/to_haz4_engineers/glwl6mx/) works extremely well due to the aforementioned property of bug repellant platforms affecting nearby terrain.
 
@@ -832,6 +832,8 @@ This area is for tips that no longer work.
   * This only really works as host. If you’re a client, flick your mouse sideways.
 
 <br><br>
+
+* The MULE no longer uses the same pathfinding as the bugs.
 
 * Pickaxe swing canceling used to be much stronger and would let you mine significantly faster. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/azgngb/demonstrating_q_mining/)
 
