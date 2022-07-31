@@ -672,7 +672,7 @@ These are niche/fun tips that you probably won't need.
 
 * Drills can stunlock enemies (e.g. grunts or huuli hoarders). Drills can also fear enemies. Useful if you have no better alternative.
 
-* Drills benefit from hitting weakpoints. This is especially noticeable when using drills on a frozen brood nexus.
+* Drills benefit from hitting weakpoints on brood nexuses. This is especially noticeable when using drills on a frozen brood nexus.
 
 * If you’re going to overfill on axes when resupplying, throw some axes on the ground before resupplying. Then you can collect them later.
 
