@@ -157,7 +157,7 @@ These tips are useful once you’ve got the basics down.
 
 * After depositing something, once you're done depositing and are putting your bag down, manually pull out a weapon to cancel the animation.
 
-* When depositing minerals, repeatedly hit your deposit button and cancel the deposit to deposit faster. Easiest to just spam the deposit button and pickaxe at the same time.
+* When depositing minerals, repeatedly hit your deposit button and cancel the deposit to deposit faster. Easiest to just spam the deposit button and pickaxe at the same time. You can also just scroll your mouse wheel instead of spamming the pickaxe.
 
 * If you freeze BET-C’s weakpoints (with cryo cannon or cryo grenade), it will take triple damage while it’s “frozen”, although it will still be able to move and attack.
 
