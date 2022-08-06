@@ -251,8 +251,6 @@ These tips are useful once you’ve got the basics down.
 
 * You can’t sprint while on a snow patch.
 
-* Grab a zipline while mactera grabbed to escape.
-
 * You only need to pickaxe the middle of green radioactive crystals to disable them.
 
 * The red plant zones with the plants in the Glacial Strata will warm you up and help keep you from freezing. Glacial Strata is the only biome where you do not naturally warm back up - if you gain some cold, it stays until you are frozen or warm up some other way.
@@ -832,6 +830,8 @@ This area is for tips that no longer work.
 
 * [Advanced] You can throw heavy minerals (aquarqs, jadiz, etc.) super far by flicking your mouse. Cool but inconsistent. [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1339503155), [me doing it](https://www.youtube.com/watch?v=OikepjkS738), [another example](https://imgur.com/a/Qcy3sc6)
   * This only really works as host. If you’re a client, flick your mouse sideways.
+
+* [Intermediate] Grab a zipline while mactera grabbed to escape.
 
 <br><br>
 
