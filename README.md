@@ -518,6 +518,8 @@ These are niche/fun tips that you probably won't need.
 
 * The PGL can mine minerals. It can also mine things like mule legs and red sugar. This effect is bigger with Fat Boy, but you probably shouldn’t waste Fat Boy shots on minerals.
 
+* Since hyperpropellant changes all damage to disintegrate damage, praetorians and oppressors killed by hyperpropellant will not release a gas cloud. Shard diffractor also does disintegrate damage and can do the same thing.
+
 * Incendiary compound makes the PGL do half the splash damage. This means it also does half damage to yourself or your allies. This is useful if you’re using RJ250.
 
 * You can double jump with RJ250 if there’s enough space. Fire a grenade directly upwards, and when it comes back down, do a normal jump. [Example](https://www.twitch.tv/milligin/clip/BreakableCoweringEndivePoooound-A8D82a0ODc4IvJ-9), [Example 2](https://www.twitch.tv/milligin/clip/BreakableCoweringEndivePoooound-A8D82a0ODc4IvJ-9)
