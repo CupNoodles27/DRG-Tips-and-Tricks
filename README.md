@@ -444,6 +444,8 @@ These are niche/fun tips that you probably won't need.
 
 * Cancel focus shots by pickaxing, laser pointing, reloading, or switching weapons.
 
+* Grenades inherit your momentum, including grapple momentum. So if you need to e.g. freeze a menace that's far away, grapple towards it and throw the cryo grenade right after releasing the grapple.
+
 * Use special powder + grappling hook to go up a big hole made by the drop pod. Call a resupply in the wall, then exit the map.
    * Also works with regular resupply holes, just make sure you line up properly.
 
