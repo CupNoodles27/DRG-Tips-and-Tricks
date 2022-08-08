@@ -616,6 +616,8 @@ These are niche/fun tips that you probably won't need.
 
 * [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
 
+* You can build pipelines on top of hurricane rockets, letting you build midair. [Example](https://youtu.be/v8TT6ZQQgjM)
+
 </details>
 
 <hr>
