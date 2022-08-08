@@ -733,6 +733,8 @@ These are niche/fun tips that you probably won't need.
 
 * As gunner, when extracting, shoot a zipline into the drop pod. Once everyone's in the pod and locked in place, you can grab the zipline and hop out. This used to work if you grappled into the pod and held your grapple as scout, but not anymore. Note that if you leave the drop pod this way, you'll lose a small amount of credits from the survival bonus.
 
+* As driller, you can escape the drop pod by dropping a C4 and spam grabbing it. Same can be done with engi and prox mines. [Example](https://www.youtube.com/watch?v=yYC0dJcIYfA)
+
 * During extraction, you can throw flares (and shoot flares) inside the drop pod, even before the gates open.
 
 * In the space rig, there’s a button you can press that temporarily lowers the gravity. You can permanently have low gravity in the space rig by doing the following: Press button, wait 19 seconds, press button, wait 3 seconds, press button.
