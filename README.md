@@ -132,7 +132,7 @@ These tips are useful once you’ve got the basics down.
 
 * Jump before opening your terrain scanner so you retain a bit of momentum rather than stopping.
 
-* Frozen enemies take 3x damage (although explosive damage is not multiplied). Frozen dreadnoughts take 2.5x damage.
+* Frozen enemies take 3x damage (although explosive damage is not multiplied). Frozen dreadnoughts take 2.66x damage (not 2.5x damage, unlike what the wiki says).
 
 * Frozen wardens don’t grant their allies the half-damage and regeneration buffs.
 
