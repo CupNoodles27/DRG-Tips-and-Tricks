@@ -627,6 +627,8 @@ These are niche/fun tips that you probably won't need.
 <details>
 <summary>Click to expand</summary>
 
+* Flatten an area by removing obstacles that block your line-of-sight to make the area easier to fight in.
+
 * Impact axes do damage in 3 parts. Two parts do melee damage, and the third part does explosive damage, in that order. The melee damage can trigger vampire, the explosive damage does not. [Source](https://deeprockgalactic.fandom.com/wiki/Impact_Axe)
   * If the second part of damage is not done, the axe can be retrieved. This means you can axe a full-health frozen grunt, then retrieve the axe.
   * If you miss, the axe can still do area damage, and can be retrieved.
