@@ -534,7 +534,9 @@ These are niche/fun tips that you probably won't need.
 
 * Build platform towers to provide cover for dreadnought fireballs.
 
-* When you place a platform on minerals, the platform will take one hit to destroy, and so will the minerals. Useful for ground minerals. This does not make you lose any minerals. This will also let you mine mini-MULE legs with one hit.
+* When you place a platform on minerals, the platform will take one hit to destroy, and so will the minerals. This is useful for ground minerals and does not make you lose any minerals. This will also let you mine mini-MULE legs with one hit.
+
+* Platforms can also help you more quickly mine 3-hit terrain. [Example](https://www.youtube.com/watch?v=aHX_8qQVH5Y)
 
 * Breach cutter goes through walls.
 
