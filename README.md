@@ -422,6 +422,8 @@ These are niche/fun tips that you probably won't need.
 
 * Magma core hot rock repels bugs. [Example](https://www.youtube.com/watch?v=O9ZIRJq_LIU)
 
+* You can bunnyhop to preserve momentum from e.g. a grapple or a special powder shot. Easiest to do by binding your scroll wheel to jump. [Example](https://www.youtube.com/watch?v=cn3raCDpaZA)
+
 </details>
 
 <hr>
