@@ -528,7 +528,7 @@ These are niche/fun tips that you probably won't need.
 
 * Incendiary compound makes the PGL do half the splash damage. This means it also does half damage to yourself or your allies. This is useful if you’re using RJ250.
 
-* You can double jump with RJ250 if there’s enough space. Fire a grenade directly upwards, and when it comes back down, do a normal jump. [Example](https://www.twitch.tv/milligin/clip/BreakableCoweringEndivePoooound-A8D82a0ODc4IvJ-9), [Example 2](https://www.twitch.tv/milligin/clip/BreakableCoweringEndivePoooound-A8D82a0ODc4IvJ-9)
+* You can double jump with RJ250 if there’s enough space. Fire a grenade directly upwards, and when it comes back down, do a normal jump. [Example](https://www.twitch.tv/milligin/clip/BreakableCoweringEndivePoooound-A8D82a0ODc4IvJ-9), [Example 2](https://youtu.be/kxBnyFKyiB0)
   * From the moment the grenade leaves the barrel of your PGL, it takes exactly 5 seconds for the grenade to come back down and hit the ground.
   * You need at least 37.4 meters of space above you for the grenade to have enough space to come back down. [Source](https://youtu.be/FKLJJ76ADyo)
 
