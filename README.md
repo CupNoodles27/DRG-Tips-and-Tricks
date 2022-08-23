@@ -426,6 +426,8 @@ These are niche/fun tips that you probably won't need.
 
 * Jumping off objects like barrels, tumbleweeds, and bough cones will make you fly if you jump at the exact moment you touch them. [Example](https://www.youtube.com/watch?v=ZTJny_H2pQw). This is much easier to do if you bind your scroll wheel to jump. Also, since DRG physics is affected by framerate, lowering your framerate will make the jumps much more consistent.
 
+* There are many possible "god spots" where you can stand and enemies won't be able to reach you. This includes standing on brood nexuses and exploding plants. [Video source](https://youtu.be/D6eWGVlvvQI)
+
 </details>
 
 <hr>
