@@ -422,7 +422,7 @@ These are niche/fun tips that you probably won't need.
 
 * Magma core hot rock repels bugs. [Example](https://www.youtube.com/watch?v=O9ZIRJq_LIU)
 
-* You can bunnyhop to preserve momentum from e.g. a grapple or a special powder shot. Much easier to do if you bind your scroll wheel to jump. [Example](https://www.youtube.com/watch?v=cn3raCDpaZA)
+* You can bunnyhop to preserve momentum from e.g. a grapple or a special powder shot. Bunnyhopping also lets you move through goo without being slowed down. Much easier to do if you bind your scroll wheel to jump. [Example](https://www.youtube.com/watch?v=cn3raCDpaZA)
 
 * Jumping off objects like barrels, tumbleweeds, and bough cones will make you fly if you jump at the exact moment you touch them. [Example](https://www.youtube.com/watch?v=ZTJny_H2pQw). This is much easier to do if you bind your scroll wheel to jump. Also, since DRG physics is affected by framerate, lowering your framerate will make the jumps much more consistent.
 
