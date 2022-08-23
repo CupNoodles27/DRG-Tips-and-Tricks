@@ -353,7 +353,9 @@ These are niche/fun tips that you probably won't need.
 
 * Doretta becomes invincible to all damage for 4 seconds when you repair it to 100% - this can even block detonator explosions. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t48lca/keep_calm_timed_repair/)
 
-* Jump on top of the MULE to mess with ground enemy AI. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
+* There are many possible "god spots" where you can stand and enemies won't be able to reach you. This includes standing on brood nexuses and exploding plants. [Video source](https://youtu.be/D6eWGVlvvQI)
+
+* Jump on top of the MULE to keep melee enemies from attacking you. This is technically also a "god spot". [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
 
 * You can use Molly to bounce yourself high in the air - [example1](https://www.reddit.com/r/DeepRockGalactic/comments/w2wqqe/ziplines_where_were_going_we_dont_need_ziplines/), [example 2](https://youtu.be/BJAPceNyh04). Call molly, get on top of molly, then jump right as molly stands up. [Multiplayer example](https://www.reddit.com/r/DeepRockGalactic/comments/swyjdy/we_call_it_molly_hopping/)
 
@@ -425,8 +427,6 @@ These are niche/fun tips that you probably won't need.
 * You can bunnyhop to preserve momentum from e.g. a grapple or a special powder shot. Bunnyhopping also lets you move through goo without being slowed down. Much easier to do if you bind your scroll wheel to jump. [Example](https://www.youtube.com/watch?v=cn3raCDpaZA)
 
 * Jumping off objects like barrels, tumbleweeds, and bough cones will make you fly if you jump at the exact moment you touch them. [Example](https://www.youtube.com/watch?v=ZTJny_H2pQw). This is much easier to do if you bind your scroll wheel to jump. Also, since DRG physics is affected by framerate, lowering your framerate will make the jumps much more consistent.
-
-* There are many possible "god spots" where you can stand and enemies won't be able to reach you. This includes standing on brood nexuses and exploding plants. [Video source](https://youtu.be/D6eWGVlvvQI)
 
 </details>
 
