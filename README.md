@@ -511,8 +511,6 @@ These are niche/fun tips that you probably won't need.
 
 * When using two turrets, you can hit the reload button to choose which turret you want to place or relocate.
 
-* When your turrets are flying back to you, they can block things like pickaxe swings and weapon shots. So make sure you don’t accidentally fat boy a flying turret.
-
 * Put your platforms above the OMEN platforms by shooting them at a wall behind each OMEN platform. You can stand on them and still activate the OMEN platforms, while avoiding the radial purple lasers. If you place them too low, the lasers will quickly melt away, and if you place them too high, you won't be able to activate the OMEN platforms.
 
 * Place a turret in front of you to block the shots from an OMEN heavy burster. This lets you stay on the OMEN platform and not have to run away. This synergizes well with the above tip, all you need to do is dig a small hole in your platforms to stand in. This could also block the twin slicer, although I haven't had a chance to test this. [Example 1](https://imgur.com/a/NXNypWr), [Video example](https://www.youtube.com/watch?v=d0hCr4S54qk)
@@ -838,6 +836,8 @@ This area is for tips that no longer work.
   * On missions without the MULE (Point Extraction and Refinery), spam the deposit button on the depositing station to deposit faster.
 
 * [Engi] You can trigger EM discharge on unbuilt turrets, as well as turrets that are flying to you.
+
+* [Engi] When your turrets are flying back to you, they can block things like pickaxe swings and weapon shots. So make sure you don’t accidentally fat boy a flying turret.
 
 * [Driller] You can throw an axe on the ground and destroy the terrain under the axe (e.g. with C4). The axe will stay where it landed (now midair) and you can jump on it to stay midair and cheese melee enemies
   * You can also stand on axes stuck in walls.
