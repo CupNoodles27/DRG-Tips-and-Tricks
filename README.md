@@ -65,7 +65,7 @@ These are things everyone should know and can use all the time.
   * Egg hunt: Each egg pulled has a chance to spawn a swarm. If it doesn't spawn a swarm, it spawns a wave. You are guaranteed a specific number of swarms based on the number of eggs. 4 eggs = 1 swarm, 6 eggs = 2 swarms, 8 eggs = 3 swarms.
   * Salvage: Coming within 2 meters of a Mini-M.U.L.E. for the first time will trigger a medium to large sized wave of enemies after 12 to 30 seconds, tending towards 15-18 seconds. Another, smaller wave of enemies will spawn when one of the legs that are found near each Mini-M.U.L.E. is dug out. This leg is picked randomly. [Source](https://deeprockgalactic.fandom.com/wiki/Salvage_Operation)
   * Point extraction: swarms happen over time (roughly every 5 minutes). Over time, swarms increase in size, and more enemies will spawn in waves in-between swarms.
-  * Elimination: no swarms, just waves. No waves spawn during a dreadnought fight.
+  * Elimination: no swarms, just waves. No waves spawn during a dreadnought fight. However, mactera plague, swarmageddon, and rival presence waves still happen during the fight (thanks u/GeddaBolt).
 
 * Back up while channeling Beastmaster to avoid being attacked.
 
@@ -678,7 +678,7 @@ These are niche/fun tips that you probably won't need.
 
 * Drill back to the drop pod if running back isn't an easy option.
 
-* When drilling, always drill so the tunnel is exposed to make it easier for others to see when it.
+* When drilling, always drill so the tunnel is exposed to make it easier for others to see it.
 
 * Don't drill at more than 45 degrees when building pipelines, otherwise it will be too steep.
 
