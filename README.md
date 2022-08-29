@@ -173,7 +173,7 @@ These tips are useful once you’ve got the basics down.
 
 * Some enemies have 1x weakpoints: praetorians, oppressors, backs of dreadnought twins (once the armor is destroyed), and caretaker eyes. Weapons with weakpoint damage bonuses benefit from hitting 1x weakpoints.
 
-* Freezing a burning enemy or heating up a frozen enemy will cancel the status effect (on fire or frozen) and deal 200 disintegrate damage - [Temperature shock](https://deeprockgalactic.fandom.com/wiki/Status_Effects#Temperature_Shock)
+* Applying cold to a burning enemy or heating up a frozen enemy enough to remove the status effect (on fire or frozen) will deal 200 disintegrate damage - [Temperature shock](https://deeprockgalactic.fandom.com/wiki/Status_Effects#Temperature_Shock)
   * Unfreezing a frozen enemy can often be bad, since frozen is such a powerful status effect. For example, if a brood nexus is frozen, it’ll take 3x damage, and it won’t spawn swarmers if it dies while frozen.
 
 * Praetorians and oppressors won’t release gas if killed by [disintegrate damage](https://deeprockgalactic.fandom.com/wiki/Damage#Disintegrate). Hyper propellant converts all direct damage to disintegrate damage, so a praetorian killed by the direct damage from a hyper propellant shot won't release gas. Disintegrate does not affect the after-death effects of exploders/bulks.
