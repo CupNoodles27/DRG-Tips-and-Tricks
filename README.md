@@ -319,7 +319,7 @@ These tips are useful once you’ve got the basics down.
 
 * During tritilyte events, hit your laser pointer while holding a bomb to drop it without it exploding.
 
-* A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it. Additionally, only the bottom part of the body has a hitbox. The large bag on top of the body won't be hit.
+* A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it.
 
 </details>
 
