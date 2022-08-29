@@ -649,8 +649,8 @@ These are niche/fun tips that you probably won't need.
   * Electric crystals in the crystalline caverns (3 hits)
   * Poisonous mushrooms in the fungus bogs (doesn’t need to hit, just needs to fly nearby the mushrooms)
   * Explosive spores in the sandblasted corridors (need to throw over / at the top)
-  * Naedocyte roes (eggs dropped by the breeder) (1-hit)
-  * Cacti in the dense biozone (1-hit)
+  * Naedocyte roes (eggs dropped by the breeder) (2 hits)
+  * Cacti in the dense biozone (2 hits)
   * Trees in the radioactive exclusion zone (1-hit)
 
 * Axes and drills can destroy the ends of unfinished pipelines.
