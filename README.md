@@ -223,7 +223,7 @@ These tips are useful once you’ve got the basics down.
 
 * Drink a buff beer in your own lobby, then join another lobby to keep that buff.
 
-* Currently buff beer is bugged to apply twice. This means pots o’ gold gives 4x gold rather than 2x, for example.
+* Currently buff beer is bugged to apply twice. This means pots o’ gold gives 4x gold rather than 2x, dark morkite gives 1.44x morkite instead of 1.2x, red rock blaster gives 1.69x instead of 1.3x, and so on.
 
 * Pots o' gold and dark morkite only buffs gold mined by the pickaxe, not by bosco, guns, or explosions.
 
