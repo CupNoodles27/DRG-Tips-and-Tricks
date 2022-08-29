@@ -134,7 +134,7 @@ These tips are useful once you’ve got the basics down.
 
 * Frozen enemies take 3x damage (although explosive damage is not multiplied). Frozen dreadnoughts take 2.66x damage (not 2.5x damage, unlike what the wiki says).
 
-* Frozen wardens don’t grant their allies the half-damage and regeneration buffs.
+* Frozen wardens don’t grant their allies the half-damage and regeneration buffs. The same applies to korlok healing pods, which will not heal the korlok when frozen.
 
 * Wardens will occasionally stop and scream, after which some grunts are spawned near it. Stunning, freezing, or fearing the warden during the scream channel will cancel the grunt summons.
 
