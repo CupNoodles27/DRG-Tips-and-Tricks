@@ -321,6 +321,8 @@ These tips are useful once you’ve got the basics down.
 
 * A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it.
 
+* If an exploder starts to explode, it gives a 1.5x speed boost to other exploders within 4.5m. [Video](https://youtu.be/vw0c3KvOiPU) (explanation in description)
+
 </details>
 
 <hr>
