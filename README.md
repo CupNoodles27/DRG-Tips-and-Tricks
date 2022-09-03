@@ -446,7 +446,7 @@ These are niche/fun tips that you probably won't need.
 * If you're having trouble making a ledge to stand in - maybe the wall is curved inward - grapple to the wall and call the MULE while holding your grapple. Wait until it stops under you to let go of the grapple.
 
 * After the season 2 update, you can now grab objects midair. This means you can do things like this [special powder throw](https://www.reddit.com/r/DeepRockGalactic/comments/ueol9u/introducing_the_special_powder_throw_for_strong/). You can do similar things with the grapple by tossing the object upwards first, then grappling towards it to catch it. And you can string together special powder shots and grapples to keep moving the object up/sideways.
-  * If you're moving too fast, you will [drop the object](https://youtu.be/Tt4TAKWbugE). However, if you repeatedly try to grab the object, you can still bring it with you. [Example](https://discord.com/channels/736425774772387861/736426337622950028/980559855427387412)
+  * If you're moving too fast, you will [drop the object](https://youtu.be/Tt4TAKWbugE). However, if you repeatedly try to grab the object, you can still bring it with you. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/wijdr7/please_dont_patch_this_out/)
 
 * (Client only) With hoverclock, jump and tap the trigger to levitate forward through the air.
 
