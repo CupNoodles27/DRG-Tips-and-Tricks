@@ -319,7 +319,7 @@ These tips are useful once you’ve got the basics down.
 
 * During tritilyte events, hit your laser pointer while holding a bomb to drop it without it exploding.
 
-* A Huuli Hoarder will escape if you don't keep damaging it or if you don't stay near it.
+* A Huuli Hoarder will escape if you don't stay near it. It does not matter if you are damaging it.
 
 * If an exploder starts to explode, it gives a 1.5x speed boost to other exploders within 4.5m. [Video](https://youtu.be/vw0c3KvOiPU) (explanation in description)
 
