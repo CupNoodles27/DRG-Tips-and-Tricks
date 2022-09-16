@@ -585,6 +585,8 @@ These are niche/fun tips that you probably won't need.
 
 * Volatile bullets on the revolver adds fire damage, which makes it weaker against fire-resistant enemies like oppressors and stronger against fire-weak enemies like spitballers and brundles.
 
+* You can cancel BRT bursts with your laser pointer or pickaxe, so with good timing you can only spend one bullet rather than 3 or 6 to hit e.g. a gunk seed or a swarmer.
+
 * The minimum zipline angle needed to be able to move faster when going downwards is 5°. The higher the angle, the faster you can go downwards.
 
 * Taking too much damage will make you fall off a zipline.
