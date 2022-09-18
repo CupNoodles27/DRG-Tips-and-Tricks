@@ -729,6 +729,8 @@ These are niche/fun tips that you probably won't need.
 <details>
 <summary>Click to expand</summary>
 
+* There is a consistent method to drilling [perfectly smooth walls](https://www.reddit.com/r/DeepRockGalactic/comments/x86ig3/a_guide_to_drilling_perfectly_smooth_walls/).
+
 * If someone with a Steeve disconnects, that Steeve will start following another dwarf. So that dwarf can have multiple Steeves.
 
 * You can glitch through the back of the drop pod by moving into a corner of a seat and spamming jump. [Example 1](https://youtu.be/YRK6dVM2tw8), [Example 2](https://www.reddit.com/r/DeepRockGalactic/comments/mgrct2/til_that_you_can_jump_through_the_ship_into_the/)
