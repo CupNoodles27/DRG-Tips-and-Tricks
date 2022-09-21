@@ -921,7 +921,7 @@ This area is for tips that no longer work.
 
 (PC) If you install mods from mod.io, you can find your mod files at C:\Users\Public\mod.io and C:\Users\[your username]\AppData\Local\mod.io.
 
-* (Steam) The easy quick-grenade method is to bind your laser pointer's secondary button to be the same as your grenade button. The old method involved messing with game files (see below), but with a recent update (maybe S2) it seems you can just use the in-game settings.
+* (Steam) The easy quick-grenade method is to bind your laser pointer's secondary button to be the same as your grenade button. The old method involved messing with game files (see below), but with a recent update (maybe S2) it seems you can just use the in-game settings. Follow the instructions below, or follow the steps [in this guide](https://technical-drg.github.io/Technical-DRG-Archives/tips-and-tricks/grenade-cancelling/).
  * Go to C:\Program Files (x86)\Steam\steamapps\common\Deep Rock Galactic\FSD\Saved\Config\WindowsNoEditor and open up GameUserSettings.ini.
  * Under [/Script/FSD.FSDGameUserSettings], add the following line (replacing “G” with whatever your grenade key is). CustomKeyBindings=(ActionName="LaserPointer",Index=1,Key=G)
  * This will overwrite your secondary button for the laser pointer, if you ever added one.
