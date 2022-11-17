@@ -75,7 +75,7 @@ These are things everyone should know and can use all the time.
 
 * Hold h to turn off your HUD (good for taking screenshots).
 
-* Hit Q or E to change class in the loading screen. Doesn’t work if you’re the host, or if the host turned off class duplication.
+* Hit A or D to change class in the loading screen. Doesn’t work if you’re the host, or if the host turned off class duplication.
 
 * You can mine gold and other minerals by digging out all the terrain connected to it. This is useful for ground minerals like hollomite, umanite, and magnite, where you only need to mine the bottom parts of these.
 
