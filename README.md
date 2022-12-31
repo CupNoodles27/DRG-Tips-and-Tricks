@@ -21,6 +21,8 @@ These are things everyone should know and can use all the time.
 <details>
 <summary>Click to expand</summary>
 
+* The [DRG wiki](https://deeprockgalactic.wiki.gg/wiki/Deep_Rock_Galactic_Wiki) is an amazing source of information. Use it as much as possible!
+
 * Hit Tab or M to access the mission map from anywhere in the space rig.
 
 * Ping minerals or dirt to have Bosco mine it. Bosco can also mine heavy objects like aquarqs, and provides light if you ping on non-minerals.
@@ -63,7 +65,7 @@ These are things everyone should know and can use all the time.
 * Swarms and waves have different mechanics based on mission type. Waves are smaller, unannounced swarms.
   * Mining: swarms happen over time.
   * Egg hunt: Each egg pulled has a chance to spawn a swarm. If it doesn't spawn a swarm, it spawns a wave. You are guaranteed a specific number of swarms based on the number of eggs. 4 eggs = 1 swarm, 6 eggs = 2 swarms, 8 eggs = 3 swarms.
-  * Salvage: Coming within 2 meters of a Mini-M.U.L.E. for the first time will trigger a medium to large sized wave of enemies after 12 to 30 seconds, tending towards 15-18 seconds. Another, smaller wave of enemies will spawn when one of the legs that are found near each Mini-M.U.L.E. is dug out. This leg is picked randomly. [Source](https://deeprockgalactic.fandom.com/wiki/Salvage_Operation)
+  * Salvage: Coming within 2 meters of a Mini-M.U.L.E. for the first time will trigger a medium to large sized wave of enemies after 12 to 30 seconds, tending towards 15-18 seconds. Another, smaller wave of enemies will spawn when one of the legs that are found near each Mini-M.U.L.E. is dug out. This leg is picked randomly. [Source](https://deeprockgalactic.wiki.gg/wiki/Salvage_Operation)
   * Point extraction: swarms happen over time (roughly every 5 minutes). Over time, swarms increase in size, and more enemies will spawn in waves in-between swarms.
   * Elimination: no swarms, just waves. No waves spawn during a dreadnought fight. However, mactera plague, swarmageddon, and rival presence waves still happen during the fight (thanks u/GeddaBolt).
 
@@ -83,9 +85,9 @@ These are things everyone should know and can use all the time.
 
 * [On Xbox] Click L3 while walking backwards to spin 180 degrees.
 
-* Cargo crates have a varying chance to spawn based on mission length (varies from 15% to 35%). The batteries always spawn in a set radius (30m) of the crate. [Source](https://deeprockgalactic.fandom.com/wiki/Cargo_Crate)
+* Cargo crates have a varying chance to spawn based on mission length (varies from 15% to 35%). The batteries always spawn in a set radius (30m) of the crate. [Source](https://deeprockgalactic.wiki.gg/wiki/Cargo_Crate)
 
-* Lost packs have the same chance to spawn as a cargo crate (see above). Scanning the lost helmet will mark your terrain scanner with a pink star. [Source](https://deeprockgalactic.fandom.com/wiki/Lost_Pack)
+* Lost packs have the same chance to spawn as a cargo crate (see above). Scanning the lost helmet will mark your terrain scanner with a pink star. [Source](https://deeprockgalactic.wiki.gg/wiki/Lost_Pack)
 
 * If you’re thinking of going up a hazard level, take a look at the difficulty scaling. Based on the hazard level, enemies will scale in quantity, movement speed, damage, attack speed, and for larger enemies, effective health.
 
@@ -140,8 +142,8 @@ These tips are useful once you’ve got the basics down.
 
 * Macteras and swarmers instantly die after being frozen. Importantly, this includes naedocyte breeders. However, goo bombers are difficult to freeze.
 
-* Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.fandom.com/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
-  * Something else you may not find on the above list are freezing/fire temperatures - the temps at which an enemy gets frozen or set on fire. For example, on the [praetorian](https://deeprockgalactic.fandom.com/wiki/Glyphid_Praetorian) page, you’ll find that regular praetorians freeze at -150 degrees, while frost praetorians freeze at -250 degrees.
+* Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.wiki.gg/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
+  * Something else you may not find on the above list are freezing/fire temperatures - the temps at which an enemy gets frozen or set on fire. For example, on the [praetorian](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Praetorian) page, you’ll find that regular praetorians freeze at -150 degrees, while frost praetorians freeze at -250 degrees.
 
 * Cancel the pickaxe swinging animation by releasing the pickaxe button as soon as it hits something, then holding the pickaxe button again. This lets you at take at least 4.5% less time to mine if you do it perfectly - [source](https://youtu.be/G0AgAVRCo1U). Could be even faster, I did not test this much and was a bit rusty when I did test it. This trick is significantly more useful when pickaxing things like enemies and ebonuts, since your pickaxe slows down a lot when hitting those.
 
@@ -173,10 +175,10 @@ These tips are useful once you’ve got the basics down.
 
 * Some enemies have 1x weakpoints: praetorians, oppressors, backs of dreadnought twins (once the armor is destroyed), and caretaker eyes. Weapons with weakpoint damage bonuses benefit from hitting 1x weakpoints.
 
-* Applying cold to a burning enemy or heating up a frozen enemy enough to remove the status effect (on fire or frozen) will deal 200 disintegrate damage - [Temperature shock](https://deeprockgalactic.fandom.com/wiki/Status_Effects#Temperature_Shock)
+* Applying cold to a burning enemy or heating up a frozen enemy enough to remove the status effect (on fire or frozen) will deal 200 disintegrate damage - [Temperature shock](https://deeprockgalactic.wiki.gg/wiki/Status_Effects#Temperature_Shock)
   * Unfreezing a frozen enemy can often be bad, since frozen is such a powerful status effect. For example, if a brood nexus is frozen, it’ll take 3x damage, and it won’t spawn swarmers if it dies while frozen.
 
-* Praetorians and oppressors won’t release gas if killed by [disintegrate damage](https://deeprockgalactic.fandom.com/wiki/Damage#Disintegrate). Hyper propellant converts all direct damage to disintegrate damage, so a praetorian killed by the direct damage from a hyper propellant shot won't release gas. Disintegrate does not affect the after-death effects of exploders/bulks.
+* Praetorians and oppressors won’t release gas if killed by [disintegrate damage](https://deeprockgalactic.wiki.gg/wiki/Damage#Disintegrate). Hyper propellant converts all direct damage to disintegrate damage, so a praetorian killed by the direct damage from a hyper propellant shot won't release gas. Disintegrate does not affect the after-death effects of exploders/bulks.
 
 * Heat can explode praetorian/oppressor gas and neurotoxin grenades. Many weapons can do this:
   * Flamethrower
@@ -207,7 +209,7 @@ These tips are useful once you’ve got the basics down.
 
 * Kursite will disappear if not deposited quickly enough.
 
-* Lure a Crassus detonator into a small tunnel to get more gold when it explodes. The driller can make this tunnel anywhere. If done right, you’ll get up to around 1230 gold. [Source](https://deeprockgalactic.fandom.com/wiki/Glyphid_Crassus_Detonator)
+* Lure a Crassus detonator into a small tunnel to get more gold when it explodes. The driller can make this tunnel anywhere. If done right, you’ll get up to around 1230 gold. [Source](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Crassus_Detonator)
   * Crassus detonators can only spawn (with a 3% chance) when the map is generated. They will not spawn afterwards.
   * If you shoot some platforms at the edge of the explosion radius, the Crassus explosion can make gold from those platforms.
 
@@ -219,7 +221,7 @@ These tips are useful once you’ve got the basics down.
 
 * The DD and EDD for each week are pre-seeded, which means the terrain will all be the same, even if you restart.
 
-* [Buff beer](https://deeprockgalactic.fandom.com/wiki/Abyss_Bar#Today.27s_Special) lasts across all three DD/EDD missions.
+* [Buff beer](https://deeprockgalactic.wiki.gg/wiki/Abyss_Bar#Today's_Special) lasts across all three DD/EDD missions.
 
 * Drink a buff beer in your own lobby, then join another lobby to keep that buff.
 
@@ -231,7 +233,7 @@ These tips are useful once you’ve got the basics down.
 
 * Prospectors are vulnerable to critical weakness, even though most boss enemies aren’t.
 
-* When the dreadnought twins heal, they regenerate their armor and equalize their health - the one with lower gains 3/4 the HP difference, the one with more will lose 1/4 the HP difference. So try to damage them equally to minimize how many times they heal. The twins are guaranteed to heal at least once during the fight, regardless of how evenly you damage them. [Source](https://deeprockgalactic.fandom.com/wiki/Glyphid_Dreadnought_Twins)
+* When the dreadnought twins heal, they regenerate their armor and equalize their health - the one with lower gains 3/4 the HP difference, the one with more will lose 1/4 the HP difference. So try to damage them equally to minimize how many times they heal. The twins are guaranteed to heal at least once during the fight, regardless of how evenly you damage them. [Source](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Dreadnought_Twins)
 
 * Once you break the armor on the back of a dreadnought twin, you’ll expose a 1x weakpoint. Also, their lower jaw takes 0.5x damage for some reason.
 
@@ -259,7 +261,7 @@ These tips are useful once you’ve got the basics down.
 
 * If you have a weapon that does heat damage (sets enemies on fire), you can use it on a teammate to prevent them from freezing. Same for weapons that do cold damage on burning teammates. Just make sure they want you to do it first.
 
-* Machine events have a 15%/20%/35% chance of spawning, depending on the length of the mission. [Source](https://deeprockgalactic.fandom.com/wiki/Machine_Events)
+* Machine events have a 15%/20%/35% chance of spawning, depending on the length of the mission. [Source](https://deeprockgalactic.wiki.gg/wiki/Machine_Events)
 
 * Machine events give a decent amount of experience. You don't need to succeed and you'll still get the XP. So even if you can’t do a machine event, start it up for the XP.
   * [?] Some machine events do not need to even run out - you can extract and still get XP. This has happened to me for kursite and tritilyte, and failed for OMEN.
@@ -269,7 +271,7 @@ These tips are useful once you’ve got the basics down.
 
 * You take 1% damage when inside the drop pod during extraction.
 
-* Doretta will always go towards exactly 216 on the in-game compass at the top of your screen - this is also the exact direction that Doretta faces when first dropped in. If you decide to pre-drill to the heartstone, this can help.
+* Doretta will always go towards exactly 216 on the in-game compass at the top of your screen. If you decide to pre-drill to the heartstone, this can help.
 
 * Doretta moves faster when more dwarves are near it. You should usually try to stay near or on Doretta.
 
@@ -293,7 +295,7 @@ These tips are useful once you’ve got the basics down.
 
 * While riding a pipeline, holding E will automatically make you stop at the next section that needs to be built/repaired.
 
-* On salvage missions, each mini mule gives 40-60 nitra and 40-60 gold when repaired. [Source](https://deeprockgalactic.fandom.com/wiki/Salvage_Operation)
+* On salvage missions, each mini mule gives 40-60 nitra and 40-60 gold when repaired. [Source](https://deeprockgalactic.wiki.gg/wiki/Salvage_Operation)
 
 * On salvage missions, check for broken resupply pods by checking your terrain scanner for drill holes in the ceiling.
 
@@ -306,7 +308,7 @@ These tips are useful once you’ve got the basics down.
 
 * The stat for mining done that you see after a mission depends only on what you deposit, not on what you mine. Minerals in your pocket at the end of a mission also count towards this number.
 
-* Thorns has an internal cooldown of 0.75s. So it's not amazing if there's a ton of swarmers on you. [Source](https://deeprockgalactic.fandom.com/wiki/Thorns)
+* Thorns has an internal cooldown of 0.75s. So it's not amazing if there's a ton of swarmers on you. [Source](https://deeprockgalactic.wiki.gg/wiki/Thorns)
 
 * [?] If the hiveguard glitches and won't spawn sentinels, get your whole team to stand around it and melee attack it together to unglitch it. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/sfjl3e/im_lvl_91_and_still_learn_new_things_about_this/huq6gv5/)
 
@@ -639,7 +641,7 @@ These are niche/fun tips that you probably won't need.
 
 * Flatten an area by removing obstacles that block your line-of-sight to make the area easier to fight in.
 
-* Impact axes do damage in 3 parts. Two parts do melee damage, and the third part does explosive damage, in that order. The melee damage can trigger vampire, the explosive damage does not. [Source](https://deeprockgalactic.fandom.com/wiki/Impact_Axe)
+* Impact axes do damage in 3 parts. Two parts do melee damage, and the third part does explosive damage, in that order. The melee damage can trigger vampire, the explosive damage does not. [Source](https://deeprockgalactic.wiki.gg/wiki/Impact_Axe)
   * If the second part of damage is not done, the axe can be retrieved. This means you can axe a full-health frozen grunt, then retrieve the axe.
   * If you miss, the axe can still do area damage, and can be retrieved.
 
@@ -764,7 +766,7 @@ These are niche/fun tips that you probably won't need.
 * Grunts and praetorians have different chances to upgrade to slashers/guards and oppressors depending on hazard level. [Source](https://docs.google.com/spreadsheets/d/1ygMn4sHAx0jvgRK0qa9LAOIcETnznkh1MtVLgsfu0ik/edit?usp=sharing)
 
 * Loot bugs are attracted to and can eat loose mineral chunks, including red sugar.
-  * On top of what they normally drop on death, loot bugs release 1.5x whatever they ate. [Source](https://deeprockgalactic.fandom.com/wiki/Loot_Bug)
+  * On top of what they normally drop on death, loot bugs release 1.5x whatever they ate. [Source](https://deeprockgalactic.wiki.gg/wiki/Loot_Bug)
 
 * Loot bugs occasionally drop gold or nitra when you pet them. This might come out of the gold/nitra amount that they drop when killed, but I haven't tested this.
 
@@ -772,7 +774,7 @@ These are niche/fun tips that you probably won't need.
 
 * You can slap gunk seeds if you get close to them without shooting them down. [Me doing it](https://www.youtube.com/watch?v=E_R1z3y2xCE)
 
-* You can pet doretta’s head, HACK-C, [Breathers](https://static.wikia.nocookie.net/deeprockgalactic_gamepedia_en/images/c/c1/BF_Breather.png/revision/latest/scale-to-width-down/800?cb=20190312184131) (a.k.a. Pog Plants), and [Cave Vines](https://deeprockgalactic.fandom.com/wiki/Cave_Vine).
+* You can pet doretta’s head, HACK-C, [Breathers](https://static.wikia.nocookie.net/deeprockgalactic_gamepedia_en/images/c/c1/BF_Breather.png/revision/latest/scale-to-width-down/800?cb=20190312184131) (a.k.a. Pog Plants), and [Cave Vines](https://deeprockgalactic.wiki.gg/wiki/Cave_Vine).
 
 * HACK-C has RGB lights on his back and drops soda cans and takeout food boxes when activated. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/ruu0on/fun_detail_i_just_noticed_hacksy_drops_soda_cans/)
 
@@ -793,7 +795,7 @@ These are niche/fun tips that you probably won't need.
 
 * If you get a hammer in the hoop in the space rig, it'll reward you with a "Hammer Time" message. [Example](https://www.youtube.com/watch?v=oErbE_vOWIA)
 
-* In-game gravity is 9.8 m/s2, which is the same as on Earth. Falling at a velocity above 10 m/s results in fall damage. [Source](https://deeprockgalactic.fandom.com/wiki/Fall_Damage)
+* In-game gravity is 9.8 m/s2, which is the same as on Earth. Falling at a velocity above 10 m/s results in fall damage. [Source](https://deeprockgalactic.wiki.gg/wiki/Fall_Damage)
 
 * The equipment terminal shows that gunner and scout have "high-intensity" flares, while engi and driller have "medium-intensity" flares. The flares are functionally the same, but their naming gives some insight into the hidden biases of DRG.
 
@@ -891,7 +893,7 @@ This area is for tips that no longer work.
 
 (u/SplitSentro): [DRG Guides Catalogue](https://drive.google.com/drive/folders/1EzKinPKOD1cVcjT7q8b4lvhW-ZwB52si) - Contains a TON of info and tech
 
-[The Wiki](https://deeprockgalactic.fandom.com/wiki/Deep_Rock_Galactic_Wiki)
+[The Wiki](https://deeprockgalactic.wiki.gg/wiki/Deep_Rock_Galactic_Wiki)
 
 [DRG Cheat Sheet](https://drg.guide/)
 
@@ -907,13 +909,13 @@ This area is for tips that no longer work.
 
 [PGL build guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2346567406)
 
-[Dev responses to suggestions](https://deeprockgalactic.fandom.com/wiki/Development_Q%26A)
+[Dev responses to suggestions](https://deeprockgalactic.wiki.gg/wiki/Development_Q%26A)
 
 [Dev responses 2](https://docs.google.com/spreadsheets/d/1RfphQ90q6J9mUqaetIEnhJOA0Af0yAPEdMdUP4fHCcw/edit#gid=0)
 
 [Zipline guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2598015765)
 
-[[Wiki] Tips, Tricks, and Strategies](https://deeprockgalactic.fandom.com/wiki/Tips,_tricks_and_strategies)
+[[Wiki] Tips, Tricks, and Strategies](https://deeprockgalactic.wiki.gg/wiki/Tips,_tricks_and_strategies)
 
 [FAQ for Troubleshooting Misc. Bugs & Crashes](https://steamcommunity.com/sharedfiles/filedetails/?id=2559182673)
 
