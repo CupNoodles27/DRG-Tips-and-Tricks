@@ -299,7 +299,7 @@ These tips are useful once you’ve got the basics down.
 
 * On salvage missions, check for broken resupply pods by checking your terrain scanner for drill holes in the ceiling.
 
-* Electric crystals in the crystalline caverns can be destroyed by digging out the roots, shooting them a lot, or throwing 3 axes at them.
+* Electric crystals in the crystalline caverns can be destroyed by digging out the roots, shooting them a lot, or throwing 7 axes at them.
 
 * Pretty much everything gives a small amount of XP. If you can deposit it, it’ll give you XP. For example, gold gives 2 credits and 1 XP per unit. Nitra gives 1 XP per unit.
   * Calling a resupply will not take away any XP from the 80 nitra that is spent.
@@ -649,10 +649,10 @@ These are niche/fun tips that you probably won't need.
 
 * Drills can quickly open ebonuts.
 
-* Axes can destroy many things and still be retrievable afterwards. This includes:
+* [Note: These numbers may be inaccurate as of the season 3 update.] Axes can destroy many things and still be retrievable afterwards. This includes:
   * Ebonuts (1-hit)
   * Hollow bough spiky vines (1-hit)
-  * Electric crystals in the crystalline caverns (3 hits)
+  * Electric crystals in the crystalline caverns (7 hits)
   * Poisonous mushrooms in the fungus bogs (doesn’t need to hit, just needs to fly nearby the mushrooms)
   * Explosive spores in the sandblasted corridors (need to throw over / at the top)
   * Naedocyte roes (eggs dropped by the breeder) (2 hits)
