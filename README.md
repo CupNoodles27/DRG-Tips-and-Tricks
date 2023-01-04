@@ -609,11 +609,9 @@ These are niche/fun tips that you probably won't need.
 
 * After gunner's shield generator goes down, it spends time flying back to him before it actually begins recharging.
 
-* The shield generator gives 50% damage reduction to anyone inside, which can reduce fall damage. It also forces bugs to leave it (except shellbacks, trawlers, and patrol bots), and blocks projectiles from the outside, including allied projectiles.
+* The shield generator gives 50% damage reduction to anyone inside, which can reduce fall damage. It also forces all enemies to leave its radius (except shellbacks, trawlers, and patrol bots), and blocks projectiles from the outside, including allied projectiles.
 
-* If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while reloading or out of ammo. This does not work with the autocannon's damage resistance upgrade.
-
-* On the coilgun there is a way to have the damage resistance buff on at all times, even when not using the coilgun. To do this, take Controlled Magnetic Flow + Defence Enhancement + Triple Tech Chambers, then go into a mission, fully charge a shot, and fire the two residual shots. This effect lasts until you use the coilgun again, but doing the same trick will keep it going. This is definitely a bug, but it has been around for a while at this point.
+* If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while reloading it. This does not work with the autocannon's damage resistance upgrade.
 
 * There is a [cheese platform strat](https://www.reddit.com/r/DeepRockGalactic/comments/ucoqpv/how_to_make_the_coilgun_do_1000_damage_per_shot/) to get huge damage on the coilgun with The Mole.
 
@@ -836,6 +834,12 @@ This area is for tips that no longer work.
 
 <details>
 <summary>Click to expand</summary>
+
+### Season 3 dead tips
+
+* [Gunner] If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while out of ammo.
+
+* [Gunner] On the coilgun there is a way to have the damage resistance buff on at all times, even when not using the coilgun. To do this, take Controlled Magnetic Flow + Defence Enhancement + Triple Tech Chambers, then go into a mission, fully charge a shot, and fire the two residual shots. This effect lasts until you use the coilgun again, but doing the same trick will keep it going. This is definitely a bug, but it has been around for a while at this point.
 
 ### Season 2 (Update 36) dead tips
 * [Fun fact] You can Rock and Stone while doing tasks like depositing, resupplying, reviving teammates, repairing pipes, repairing mini MULEs, and so on.
