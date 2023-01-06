@@ -434,6 +434,8 @@ These are niche/fun tips that you probably won't need.
 
 * Jumping off objects like barrels, tumbleweeds, and bough cones will make you fly if you jump at the exact moment you touch them. [Example](https://www.youtube.com/watch?v=ZTJny_H2pQw). This is much easier to do if you bind your scroll wheel to jump. Also, since DRG physics is affected by framerate, lowering your framerate will make the jumps much more consistent.
 
+* When falling, it is possible (and very difficult) to powerattack the ground, making a ledge that you can grab to break your fall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/104803m/who_needs_hoverboots_when_you_have_sheer_dwarven/)
+
 </details>
 
 <hr>
@@ -568,6 +570,8 @@ These are niche/fun tips that you probably won't need.
 
 * Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
 
+* Holding E/interact while falling onto a proximity mine that has not exploded yet will start the channel for defusing the mine and completely cancel your fall.
+
 </details>
 
 <hr>
@@ -634,6 +638,10 @@ These are niche/fun tips that you probably won't need.
 
 <details>
 <summary>Click to expand</summary>
+
+* When falling, you can drill into the ground, which makes a ledge you can grab to stop your fall. [Example](https://youtu.be/pCQidiSKA5w) and [guide](https://www.reddit.com/r/technicaldrg/comments/1047oeh/a_guide_to_avoiding_fall_damage/)
+
+* Holding E/interact on C4 while falling will start the channel for picking up the C4 and completely cancel your fall. You can either drop C4 preemptively and try to jump down on it, or if you're already falling, you can drop a C4 midair and quickly attempt to grab it to remove your momentum.
 
 * Flatten an area by removing obstacles that block your line-of-sight to make the area easier to fight in.
 
@@ -902,6 +910,8 @@ This area is for tips that no longer work.
 [Hoverclock secrets](https://www.youtube.com/watch?v=933iKvsBmwA)
 
 [More tips](https://www.youtube.com/watch?v=2Vf0DQBZxNI)
+
+[r/technicaldrg](https://www.reddit.com/r/technicaldrg/) for great writeups on weapon builds, breakpoints, and guides on things like animation cancelling, movement, and preventing fall damage.
 
 [How to platform](https://www.youtube.com/watch?v=4CovIeu7-xg)
 
