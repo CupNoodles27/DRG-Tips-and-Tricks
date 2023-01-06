@@ -142,6 +142,8 @@ These tips are useful once you’ve got the basics down.
 
 * Macteras and swarmers instantly die after being frozen. Importantly, this includes naedocyte breeders. However, goo bombers are difficult to freeze.
 
+* Spider webs can be burnt/removed by using the flamethrower, EPC, impact axes, DRAK, shard diffractor, breach cutter, or incendiary grenades.
+
 * Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.wiki.gg/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
   * Something else you may not find on the above list are freezing/fire temperatures - the temps at which an enemy gets frozen or set on fire. For example, on the [praetorian](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Praetorian) page, you’ll find that regular praetorians freeze at -150 degrees, while frost praetorians freeze at -250 degrees.
 
@@ -486,8 +488,6 @@ These are niche/fun tips that you probably won't need.
 
 * Boop your teammates by grappling into them while they’re in the air. [Example 1](https://www.reddit.com/r/DeepRockGalactic/comments/sqj7m9/when_did_the_grappling_update_come_to_driller_d/), [Example 2](https://www.reddit.com/r/DeepRockGalactic/comments/tc7rru/sent_the_driller_flying_first_time_achieving_this/)
 
-* A DRAK shot will destroy a spider web.
-
 </details>
 
 <hr>
@@ -567,8 +567,6 @@ These are niche/fun tips that you probably won't need.
 * If you shoot a platform on something where it will instantly disappear (e.g. a resupply or doretta), if you’re quick, you can still place a turret on that platform. This can let you put down a turret mid-air on top of doretta. You can also do this with prox mines, but this requires tight timing - you need to stand at an angle when shooting the plat so you end up closer to it when throwing the prox mine. [Example](https://youtu.be/lJlbqUkXd8U)
 
 * Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
-
-* Shard diffractor can burn spiderwebs.
 
 </details>
 
@@ -695,8 +693,6 @@ These are niche/fun tips that you probably won't need.
 * The flamethrower can burn the material around alien eggs and dreadnought cocoons, as well as ice in the glacial strata, spiderwebs, and engi platforms.
 
 * Robots instantly die when set on fire. This includes patrol bots, burst turrets, and sniper turrets.
-
-* An EPC shot or an axe will destroy a spider web.
 
 * If you need to freeze an enemy with the cryo cannon, shoot through the enemy towards the ground. The cryo cannon leaves a trail on the ground that helps freeze enemies.
 
