@@ -720,8 +720,6 @@ These are niche/fun tips that you probably won't need.
 
 * Drill under a loot bug to make it flip upside down. Then it’ll scatter minerals downwards when it dies. Useful for golden loot bugs. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t21335/tip_flip_golden_loot_bugs_upside_down_to_collect/)
 
-* You can drill into the ground and ledge grab as you fall to cancel fall damage. [Example](https://www.youtube.com/watch?v=qAj5yfhTAaU)
-
 * [?] You can ledge grab off EPC shots as host to cancel all fall damage
 
 * Creating zones of hot rock in magma core by EPC mining or using C4 can act as a replacement for bug repellant platforms, since hot rock [repels bugs](https://www.youtube.com/watch?v=O9ZIRJq_LIU).
