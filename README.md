@@ -106,6 +106,8 @@ These are things everyone should know and can use all the time.
 
 * On shield disruption missions, make sure to take the health upgrade on your armor.
 
+* On missions where you need to stand inside a zone, such as for the uplink and fuel cells on salvage operations, the speed at which the bar progresses scales linearly with the number of dwarves. So if you're in a team of 4, having all 4 people in the zone makes the bar progress at 100% speed; uplinks take 80 seconds while fuel cells take 100 seconds. But if you have 3 dwarves inside and 1 outside, the bar progresses at 75% speed; uplinks take 107 seconds while fuel cells take 133 seconds.
+
 </details>
 
 <hr>
