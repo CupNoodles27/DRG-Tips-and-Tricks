@@ -144,7 +144,7 @@ These tips are useful once you’ve got the basics down.
 
 * Macteras and swarmers instantly die after being frozen. Importantly, this includes naedocyte breeders. However, goo bombers are difficult to freeze.
 
-* Spider webs can be burnt/removed by using the flamethrower, EPC, impact axes, DRAK, shard diffractor, breach cutter, or incendiary grenades.
+* Spider webs can be burnt/removed by hitting them with the flamethrower, EPC, impact axes, DRAK, shard diffractor, breach cutter, incendiary grenades, or the boomstick with white phosphorus shells.
 
 * Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.wiki.gg/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
   * Something else you may not find on the above list are freezing/fire temperatures - the temps at which an enemy gets frozen or set on fire. For example, on the [praetorian](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Praetorian) page, you’ll find that regular praetorians freeze at -150 degrees, while frost praetorians freeze at -250 degrees.
