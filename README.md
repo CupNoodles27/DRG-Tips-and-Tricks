@@ -438,6 +438,8 @@ These are niche/fun tips that you probably won't need.
 
 * When falling, it is possible (and very difficult) to powerattack the ground, making a ledge that you can grab to break your fall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/104803m/who_needs_hoverboots_when_you_have_sheer_dwarven/)
 
+* The Caretaker does a large amount of damage to enemies when it dies. [Example](https://clips.twitch.tv/DaintyRenownedGrasshopperKreygasm-7bTCP5w2Xe1WkWK4)
+
 </details>
 
 <hr>
