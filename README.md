@@ -144,6 +144,8 @@ These tips are useful once you’ve got the basics down.
 
 * Macteras and swarmers instantly die after being frozen. Importantly, this includes naedocyte breeders. However, goo bombers are difficult to freeze.
 
+* If you pop both sacs on a goo bomber, it will no longer create goo, and it won't spew goo on the ground when it dies.
+
 * Spider webs can be burnt/removed by hitting them with the flamethrower, EPC, impact axes, DRAK, shard diffractor, breach cutter, incendiary grenades, or the boomstick with white phosphorus shells.
 
 * Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.wiki.gg/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
