@@ -634,8 +634,6 @@ These are niche/fun tips that you probably won't need.
 
 * Throwing a sticky grenade on a shield as it’s expanding will make the grenade expand in size as well. Can make the grenade enormous, but does not affect the actual explosion. [Example](https://youtu.be/Arzb3y02ig0)
 
-* [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
-
 * You can build pipelines on top of hurricane rockets, letting you build midair. [Example](https://youtu.be/v8TT6ZQQgjM)
 
 </details>
@@ -846,6 +844,8 @@ This area is for tips that no longer work.
 <summary>Click to expand</summary>
 
 ### Season 3 dead tips
+
+* [Gunner] [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
 
 * [Gunner] If you have the coilgun's damage resistance upgrade, you can still get the damage resistance buff if you hold the fire button while out of ammo.
 
