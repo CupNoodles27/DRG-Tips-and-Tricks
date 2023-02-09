@@ -708,7 +708,7 @@ These are niche/fun tips that you probably won't need.
 
 * Robots instantly die when set on fire. This includes patrol bots, burst turrets, and sniper turrets.
 
-* If you need to freeze an enemy with the cryo cannon, shoot through the enemy towards the ground. The cryo cannon leaves a trail on the ground that helps freeze enemies.
+* If you need to freeze an enemy with the cryo cannon, shoot through the enemy towards the ground. The cryo cannon leaves a trail on the ground that helps freeze enemies and prevents them from unfreezing.
 
 * The “bunker” is a common strategy where you drill into a wall, then make a large area (usually with C4 + blast radius upgrade) where you can stand and wait for enemies to funnel in. You can use it if you’re struggling on a mission.
   * However, it also detracts from building good combat habits (since you don’t need to kite enemies), and if a bulk shows up, you’ll have to drill a different path out.
