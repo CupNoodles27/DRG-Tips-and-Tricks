@@ -659,10 +659,10 @@ These are niche/fun tips that you probably won't need.
 
 * Drills can quickly open ebonuts.
 
-* [Note: These numbers may be inaccurate as of the season 3 update.] Axes can destroy many things and still be retrievable afterwards. This includes:
+* [Note: These numbers are inaccurate as of the season 3 update, which nerfed impact axe damage to environmentals.] Axes can destroy many things and still be retrievable afterwards. This includes:
   * Ebonuts (1-hit)
   * Hollow bough spiky vines (1-hit)
-  * Electric crystals in the crystalline caverns (7 hits)
+  * Electric crystals in the crystalline caverns (7 hits as of season 3)
   * Poisonous mushrooms in the fungus bogs (doesn’t need to hit, just needs to fly nearby the mushrooms)
   * Explosive spores in the sandblasted corridors (need to throw over / at the top)
   * Naedocyte roes (eggs dropped by the breeder) (2 hits)
