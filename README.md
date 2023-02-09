@@ -498,6 +498,8 @@ These are niche/fun tips that you probably won't need.
 
 * Boop your teammates by grappling into them while they’re in the air. [Example 1](https://www.reddit.com/r/DeepRockGalactic/comments/sqj7m9/when_did_the_grappling_update_come_to_driller_d/), [Example 2](https://www.reddit.com/r/DeepRockGalactic/comments/tc7rru/sent_the_driller_flying_first_time_achieving_this/)
 
+* You can technically leave the escape drop pod after everyone gets locked in if you grapple out at the exact right time. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/10xljdt/no_drop_pod_required_ill_just_float_up/)
+
 </details>
 
 <hr>
