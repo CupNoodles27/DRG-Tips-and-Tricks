@@ -875,7 +875,6 @@ This area is for tips that no longer work.
 
 <br><br>
 
-* The MULE no longer uses the same pathfinding as the bugs.
 
 * Pickaxe swing canceling used to be much stronger and would let you mine significantly faster. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/azgngb/demonstrating_q_mining/)
 
