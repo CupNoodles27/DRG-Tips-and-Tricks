@@ -100,7 +100,7 @@ These are things everyone should know and can use all the time.
 * Look for colorful markings sticking out of walls to find heavy minerals. Some examples: [jadiz](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/jadiz.jpg), [enor pearl](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/enor.jpg), [compressed gold](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/gold.jpg). Also applies to [aquarqs](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/aquarq.jpg), [bittergems](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/bittergem.jpg), and [error cubes](https://github.com/CupNoodles27/DRG-Tips-and-Tricks/blob/main/images/error_cube.jpg).
   * These things glow as long as the heavy object is nearby. If they’re dark and not glowing, the heavy object has been mined and moved somewhere else. Compressed gold seems to be an exception to this - its glow doesn’t seem to change.
 
-* If you need to get rid of beer that you’re holding, hit Q on your keyboard, or alternatively, change classes.
+* If you need to get rid of beer that you’re holding, change classes.
 
 * Buy all the upgrades for your armor, you’ll get permanent health bonuses.
 
@@ -843,9 +843,17 @@ This area is for tips that no longer work.
 <details>
 <summary>Click to expand</summary>
 
-### Season 3 dead tips
+### Season 3 Patch 13 dead tips
 
-* [Driller] [Fixed with the 2/23/23 update](https://store.steampowered.com/news/app/548430/view/3639508760840306958) Holding E/interact on C4 while falling will start the channel for picking up the C4 and completely cancel your fall. You can either drop C4 preemptively and try to jump down on it, or if you're already falling, you can drop a C4 midair and quickly attempt to grab it to remove your momentum.
+[The 2/23/23 update](https://store.steampowered.com/news/app/548430/view/3639508760840306958) fixed the following:
+
+* [Driller] Holding E/interact on C4 while falling will start the channel for picking up the C4 and completely cancel your fall. You can either drop C4 preemptively and try to jump down on it, or if you're already falling, you can drop a C4 midair and quickly attempt to grab it to remove your momentum.
+
+* If you need to get rid of beer that you’re holding, hit Q on your keyboard.
+
+* You can no longer complete a promotion assignment to reset the weekly core hunt.
+
+### Season 3 dead tips
 
 * [Gunner] [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
 
