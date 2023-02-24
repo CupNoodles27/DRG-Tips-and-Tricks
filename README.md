@@ -649,8 +649,6 @@ These are niche/fun tips that you probably won't need.
 
 * When falling, you can drill into the ground, which makes a ledge you can grab to stop your fall. [Example](https://youtu.be/pCQidiSKA5w) and [guide](https://www.reddit.com/r/technicaldrg/comments/1047oeh/a_guide_to_avoiding_fall_damage/)
 
-* Holding E/interact on C4 while falling will start the channel for picking up the C4 and completely cancel your fall. You can either drop C4 preemptively and try to jump down on it, or if you're already falling, you can drop a C4 midair and quickly attempt to grab it to remove your momentum.
-
 * Flatten an area by removing obstacles that block your line-of-sight to make the area easier to fight in.
 
 * Impact axes do damage in 3 parts. Two parts do melee damage, and the third part does explosive damage, in that order. The melee damage can trigger vampire, the explosive damage does not. [Source](https://deeprockgalactic.wiki.gg/wiki/Impact_Axe)
@@ -846,6 +844,8 @@ This area is for tips that no longer work.
 <summary>Click to expand</summary>
 
 ### Season 3 dead tips
+
+* [Driller] [Fixed with the 2/23/23 update](https://store.steampowered.com/news/app/548430/view/3639508760840306958) Holding E/interact on C4 while falling will start the channel for picking up the C4 and completely cancel your fall. You can either drop C4 preemptively and try to jump down on it, or if you're already falling, you can drop a C4 midair and quickly attempt to grab it to remove your momentum.
 
 * [Gunner] [BUG/EXPLOIT] Using an autoclicker lets the minigun fire insanely fast. [Example](https://www.youtube.com/watch?v=DVZBxlCD8r0)
 
