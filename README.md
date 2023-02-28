@@ -204,6 +204,7 @@ These tips are useful once you’ve got the basics down.
 * You can detect cave leeches on the terrain scanner by looking for small holes in the ceiling.
 
 * Pickaxe a frozen dwarf to help unfreeze them. Power attack to instantly fully unfreeze them.
+  * With precise timing, you can powerattack and unfreeze yourself. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/11drbrf/unfroze_myself_with_a_perfectly_timed_power_attack/)
 
 * Every mission has a set spawn pool. Any enemy included in the spawn pool can be spawned, any enemy not in the spawn pool won’t be. So if you see one leech, look out for more.
   * A spawn pool can have up to 3 “disruptive enemy” types. The following are disruptive enemies: detonators, shellbacks, goo bombers, grabbers, menaces, and wardens. So if you see a goo bomber, grabber, and shellback, you have no chance of getting a bulk. [Source 1](https://devtrackers.gg/deep-rock-galactic/p/f901d71e-lets-talk-about-bulk-detonators-in-salvage-missions), [Source 2](https://www.reddit.com/r/DeepRockGalactic/comments/qs8l4t/enemies_and_how_they_spawn_what_secrets_do_you/hkbjqbg/)
