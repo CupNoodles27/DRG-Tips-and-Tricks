@@ -126,7 +126,7 @@ These tips are useful once you’ve got the basics down.
 
 * Grenades inherit your momentum, just like flares. Sprint and jump to throw grenades further.
 
-* Cancel your power attack wind down animation by releasing the power attack button right after the power attack hits. Make sure to release the pickaxe button *afterwards*. [Example](https://imgur.com/a/p67YEUO)
+* Cancel your power attack wind down animation by releasing the power attack button right after the power attack hits. Make sure to release the pickaxe button *afterwards*. [Example](https://imgur.com/a/9V7WnzR)
 
 * Cancel flare gun and platform gun firing animations to fire faster. Fire then immediately hit your pickaxe/laser, then repeat.
 
@@ -254,7 +254,7 @@ These tips are useful once you’ve got the basics down.
 
 * If you need to get up a steep slope, run against it and spam jump. This is very useful for getting around.
 
-* If gravity is pulling you down a steep slope, jumping away from the slope will launch you forward. You can practice this with [these windows](https://imgur.com/a/qWFBA9C) in the space rig.
+* If gravity is pulling you down a steep slope, jumping away from the slope will launch you forward. You can practice this with [these windows](https://imgur.com/a/Wq1Jc1V) in the space rig.
 
 * Snow patches and goo patches reduce your fall damage in the same way that engi platforms can do.
 
@@ -390,8 +390,6 @@ These are niche/fun tips that you probably won't need.
 * Starting Doretta after refueling will cancel a swarm that’s in progress.
 
 * If both dwarves have the upgrade that gives 6 seconds of invulnerability after a revive, they can chain revive each other.
-
-* A loose mineral could indicate that there’s a lost pack nearby. Make sure that it couldn’t have come from mining or a cargo crate. [Example](https://imgur.com/a/XDb564L)
 
 * [Solo only] If you start performing a task like resupplying, building a pipeline, depositing, and so on, you can open the options menu (esc on PC), then let go of the button for doing that task, then close the options menu. You will keep doing the task without needing to hold down any buttons. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/sniymp/just_a_helpful_tipglitch/)
 
@@ -530,10 +528,10 @@ These are niche/fun tips that you probably won't need.
 
 * Put your platforms above the OMEN platforms by shooting them at a wall behind each OMEN platform. You can stand on them and still activate the OMEN platforms, while avoiding the radial purple lasers. If you place them too low, the lasers will quickly melt away, and if you place them too high, you won't be able to activate the OMEN platforms.
 
-* Place a turret in front of you to block the shots from an OMEN heavy burster. This lets you stay on the OMEN platform and not have to run away. This synergizes well with the above tip, all you need to do is dig a small hole in your platforms to stand in. This could also block the twin slicer, although I haven't had a chance to test this. [Example 1](https://imgur.com/a/NXNypWr), [Video example](https://www.youtube.com/watch?v=d0hCr4S54qk)
+* Place a turret in front of you to block the shots from an OMEN heavy burster. This lets you stay on the OMEN platform and not have to run away. This synergizes well with the above tip, all you need to do is dig a small hole in your platforms to stand in. This could also block the twin slicer, although I haven't had a chance to test this. [Example 1](https://imgur.com/a/qgILDFT), [Video example](https://www.youtube.com/watch?v=d0hCr4S54qk)
 
 * The above tip also works for other projectiles. However, turret hitboxes are pretty small, so you're better off blocking these with platforms.
-  * [Example](https://imgur.com/a/NLAuLRl) placement for blocking caretaker appendage projectiles.
+  * [Example](https://imgur.com/a/alKAlCv) placement for blocking caretaker appendage projectiles.
 
 * You can block leeches with platforms. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/sxor0f/one_day_ill_be_able_to_bring_one_of_these_up_to/)
 
@@ -571,7 +569,7 @@ These are niche/fun tips that you probably won't need.
 
 * Place a platform over a loot bug to stop the minerals from flying everywhere.
 
-* Have a teammate stand against a vertical wall and shoot a platform at their head to let them look through the wall. [Example](https://imgur.com/a/ErdeceU) (uploaded to Imgur because twitch clips aren’t permanent)
+* Have a teammate stand against a vertical wall and shoot a platform at their head to let them look through the wall. [Example](https://imgur.com/a/CVGd06K) (uploaded to Imgur because twitch clips aren’t permanent)
 
 * Stop detonators with platforms. [Example](https://cdn.discordapp.com/attachments/565850434376302613/870860625381826600/bandicam_2021-07-31_11-40-01-465.mp4)
 
@@ -879,7 +877,7 @@ This area is for tips that no longer work.
 
 * [Advanced] If you start a solo mission, then join a public game that’s in progress, then if you complete that mission, it will count as a solo mission. Useful if you want the achievement for 100 solo missions, but don’t want to do solo missions.
 
-* [Advanced] You can throw heavy minerals (aquarqs, jadiz, etc.) super far by flicking your mouse. Cool but inconsistent. [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1339503155), [me doing it](https://www.youtube.com/watch?v=OikepjkS738), [another example](https://imgur.com/a/Qcy3sc6)
+* [Advanced] You can throw heavy minerals (aquarqs, jadiz, etc.) super far by flicking your mouse. Cool but inconsistent. [Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1339503155), [me doing it](https://www.youtube.com/watch?v=OikepjkS738), [another example](https://imgur.com/a/W2zGhm9)
   * This only really works as host. If you’re a client, flick your mouse sideways.
 
 * [Intermediate] Grab a zipline while mactera grabbed to escape.
