@@ -328,7 +328,7 @@ These tips are useful once you’ve got the basics down.
 
 * During tritilyte events, hit your laser pointer while holding a bomb to drop it without it exploding.
 
-* A Huuli Hoarder will escape if you don't stay near it. It does not matter if you are damaging it.
+* A Huuli Hoarder will never escape if you stay near it, regardless of whether or not you are damaging it. The only way to not have it burrow when nobody is near it is to use a weapon that can consistently and continuously stun the Huuli, such as the minigun or the Hurricane. The stuns will prevent it from burrowing.
 
 * If an exploder starts to explode, it gives a 1.5x speed boost to other exploders within 4.5m. [Video](https://youtu.be/vw0c3KvOiPU) (explanation in description)
 
@@ -578,8 +578,6 @@ These are niche/fun tips that you probably won't need.
 * If you shoot a platform on something where it will instantly disappear (e.g. a resupply or doretta), if you’re quick, you can still place a turret on that platform. This can let you put down a turret mid-air on top of doretta. You can also do this with prox mines, but this requires tight timing - you need to stand at an angle when shooting the plat so you end up closer to it when throwing the prox mine. [Example](https://youtu.be/lJlbqUkXd8U)
 
 * Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
-
-* Holding E/interact while falling onto a proximity mine that has not exploded yet will start the channel for defusing the mine and completely cancel your fall.
 
 </details>
 
@@ -841,6 +839,12 @@ This area is for tips that no longer work.
 
 <details>
 <summary>Click to expand</summary>
+
+### After S3 P13 dead tips
+
+I'm not sure of the timing on these since I took a long break.
+
+* [Engineer] Holding E/interact while falling onto a proximity mine that has not exploded yet will start the channel for defusing the mine and completely cancel your fall.
 
 ### Season 3 Patch 13 dead tips
 
