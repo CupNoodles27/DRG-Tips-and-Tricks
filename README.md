@@ -328,7 +328,7 @@ These tips are useful once you’ve got the basics down.
 
 * During tritilyte events, hit your laser pointer while holding a bomb to drop it without it exploding.
 
-* A Huuli Hoarder will never escape if you stay near it, regardless of whether or not you are damaging it. The only way to not have it burrow when nobody is near it is to use a weapon that can consistently and continuously stun the Huuli, such as the minigun or the Hurricane. The stuns will prevent it from burrowing.
+* A Huuli Hoarder will never escape if you stay near it, regardless of whether or not you are damaging it. The only way to not have it burrow when nobody is near it is to use a weapon that can consistently and continuously stun the Huuli, such as the minigun with T3 stun or the Hurricane with T5 stun. Each stun will only last for a moment ([0.05x the normal duration](https://deeprockgalactic.wiki.gg/wiki/Huuli_Hoarder/Data)) but will prevent the Huuli from burrowing.
 
 * If an exploder starts to explode, it gives a 1.5x speed boost to other exploders within 4.5m. [Video](https://youtu.be/vw0c3KvOiPU) (explanation in description)
 
