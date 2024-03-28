@@ -203,7 +203,7 @@ These tips are useful once you’ve got the basics down.
 
 * You can detect cave leeches on the terrain scanner by looking for small holes in the ceiling.
 
-* Pickaxe a frozen dwarf to help unfreeze them. Power attack to instantly fully unfreeze them.
+* Pickaxe a frozen dwarf to help unfreeze them. Power attack to instantly fully unfreeze them. Drills ccan also help unfreeze but will damage your teammate in the process.
   * With precise timing, you can powerattack and unfreeze yourself. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/11drbrf/unfroze_myself_with_a_perfectly_timed_power_attack/)
 
 * Every mission has a set spawn pool. Any enemy included in the spawn pool can be spawned, any enemy not in the spawn pool won’t be. So if you see one leech, look out for more.
