@@ -85,7 +85,7 @@ These are things everyone should know and can use all the time.
 
 * [On Xbox] Click L3 while walking backwards to spin 180 degrees.
 
-* Cargo crates have a varying chance to spawn based on mission length (varies from 15% to 35%). The batteries always spawn in a set radius (30m) of the crate. [Source](https://deeprockgalactic.wiki.gg/wiki/Cargo_Crate)
+* Cargo crates have a varying chance to spawn based on mission type and length (varies from 7% to 15%). The batteries always spawn in a set radius (30m) of the crate. [Source](https://deeprockgalactic.wiki.gg/wiki/Cargo_Crate)
 
 * Lost packs have the same chance to spawn as a cargo crate (see above). Scanning the lost helmet will mark your terrain scanner with a pink star. [Source](https://deeprockgalactic.wiki.gg/wiki/Lost_Pack)
 
@@ -268,7 +268,7 @@ These tips are useful once you’ve got the basics down.
 
 * If you have a weapon that does heat damage (sets enemies on fire), you can use it on a teammate to prevent them from freezing. Same for weapons that do cold damage on burning teammates. Just make sure they want you to do it first.
 
-* Machine events have a 15%/20%/35% chance of spawning, depending on the length of the mission. [Source](https://deeprockgalactic.wiki.gg/wiki/Machine_Events)
+* Machine events have a varying chance to spawn based on mission type and length (varies from 15% to 27%). [Source](https://deeprockgalactic.wiki.gg/wiki/Machine_Events)
 
 * Machine events give a decent amount of experience. You don't need to succeed and you'll still get the XP. So even if you can’t do a machine event, start it up for the XP.
   * [?] Some machine events do not need to even run out - you can extract and still get XP. This has happened to me for kursite and tritilyte, and failed for OMEN.
