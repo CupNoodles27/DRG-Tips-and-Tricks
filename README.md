@@ -365,6 +365,7 @@ These are niche/fun tips that you probably won't need.
 * Doretta becomes invincible to all damage for 4 seconds when you repair it to 100% - this can even block detonator explosions. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/t48lca/keep_calm_timed_repair/)
 
 * There are many possible "god spots" where you can stand and enemies won't be able to reach you. This includes standing on brood nexuses and exploding plants. [Video source](https://youtu.be/D6eWGVlvvQI)
+  * You can also stand on top of spitballers, although this is more dangerous than standing on a brood nexus.
 
 * Jump on top of the MULE to keep melee enemies from attacking you. This is technically also a "god spot". [Example](https://www.reddit.com/r/DeepRockGalactic/comments/re9men/if_you_didnt_know_jumping_on_the_mule_is_very/)
 
