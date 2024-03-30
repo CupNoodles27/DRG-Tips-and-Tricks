@@ -258,6 +258,8 @@ These tips are useful once you’ve got the basics down.
 
 * Snow patches and goo patches reduce your fall damage in the same way that engi platforms can do.
 
+* Goo patches significantly slow down ground-based enemies.
+
 * You can’t sprint while on a snow patch. However, the unstoppable perk will let you sprint through snow.
 
 * You only need to pickaxe the middle of green radioactive crystals to disable them.
