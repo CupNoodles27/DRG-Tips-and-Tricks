@@ -89,7 +89,7 @@ These are things everyone should know and can use all the time.
 
 * Lost packs have the same chance to spawn as a cargo crate (see above). Scanning the lost helmet will mark your terrain scanner with a pink star. [Source](https://deeprockgalactic.wiki.gg/wiki/Lost_Pack)
 
-* If you’re thinking of going up a hazard level, take a look at the difficulty scaling. Based on the hazard level, enemies will scale in quantity, movement speed, damage, attack speed, and for larger enemies, effective health.
+* If you’re thinking of going up a hazard level, take a look at the [difficulty scaling](https://deeprockgalactic.wiki.gg/wiki/Difficulty_Scaling). Based on the hazard level, enemies will scale in quantity, movement speed, damage, attack speed, and for larger enemies, effective health.
 
 * You can’t resupply past your max ammo, so try to use your weapons evenly so you get more out of a resupply. Otherwise you’re wasting ammo.
 
