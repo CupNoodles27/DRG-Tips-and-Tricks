@@ -25,15 +25,15 @@ These are things everyone should know and can use all the time.
 
 * Hit Tab or M to access the mission map from anywhere in the space rig.
 
-* Ping minerals or dirt to have Bosco mine it. Bosco can also mine heavy objects like aquarqs, and provides light if you ping on non-minerals.
+* Ping minerals or dirt to have Bosco mine it. Bosco can also mine & carry heavy objects like aquarqs or enor pearls, provide light if you ping on non-minerals, and attack enemies that you ping.
+
+* Shout (press x) to call bosco to you - if he is holding a heavy object, he will drop it, or throw it at you if he's within 10m of you. If he’s mining or shining a light, he will also stop and go to you.
 
 * Use your terrain scanner to see which way to dig through dirt.
 
 * If you ping a large object (like enor or jadiz), Bosco will pick it up and carry it to you.
 
 * If you see something and don’t know what it is, point your laser pointer at it. It’ll show the name of that thing and you can look it up. Google and the Wiki are your friends.
-
-* Shout (press x) to call bosco to you - if he is holding something, he will drop it, or throw it at you if he's within 10m of you. If he’s mining or shining a light, he will also stop and go to you.
 
 * When you throw a flare, it inherits your momentum. If you want to throw a flare as far as possible, sprint, jump, and throw throw the flare immediately after starting the jump.
 
