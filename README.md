@@ -655,7 +655,7 @@ These are niche/fun tips that you probably won't need.
   * If the second part of damage is not done, the axe can be retrieved. This means you can axe a full-health frozen grunt, then retrieve the axe.
   * If you miss, the axe can still do area damage, and can be retrieved.
 
-* You can drill flying rocks when they fly down onto doretta to instakill them. You’ll probably die doing this though. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/luc882/dont_fear_the_rocks_drill_them/)
+* You can drill flying rocks when they fly down onto doretta to instakill them. But it's very easy to miss a rock and die doing this. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/luc882/dont_fear_the_rocks_drill_them/)
 
 * Drills can quickly open ebonuts.
 
@@ -781,6 +781,8 @@ These are niche/fun tips that you probably won't need.
 * You can slap gunk seeds if you get close to them without shooting them down. [Me doing it](https://www.youtube.com/watch?v=E_R1z3y2xCE)
 
 * You can pet doretta’s head, HACK-C, [Breathers](https://static.wikia.nocookie.net/deeprockgalactic_gamepedia_en/images/c/c1/BF_Breather.png/revision/latest/scale-to-width-down/800?cb=20190312184131) (a.k.a. Pog Plants), and [Cave Vines](https://deeprockgalactic.wiki.gg/wiki/Cave_Vine).
+
+* Bosco can carry Doretta's head.
 
 * HACK-C has RGB lights on his back and drops soda cans and takeout food boxes when activated. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/ruu0on/fun_detail_i_just_noticed_hacksy_drops_soda_cans/)
 
