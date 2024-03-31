@@ -457,7 +457,7 @@ These are niche/fun tips that you probably won't need.
 <details>
 <summary>Click to expand</summary>
 
-* The most useful scout trick is powerattacking a wall while grappling towards it and landing in the resulting hole. This takes a lot of practice, but when mastered, makes you much less dependent on platforms.
+* The most useful scout trick is powerattacking a wall while grappling towards it and landing in the resulting hole. Aim slightly downward when you do the powerattack. This takes some of practice, but when mastered it will make you much less dependent on platforms. Walls that are curved towards you may be harder or impossible to do this trick with.
 
 * If you're having trouble making a ledge to stand in - maybe the wall is curved inward - grapple to the wall and call the MULE while holding your grapple. Wait until it stops under you to let go of the grapple.
 
