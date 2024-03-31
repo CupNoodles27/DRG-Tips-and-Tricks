@@ -83,7 +83,7 @@ These are things everyone should know and can use all the time.
 
 * Click twice on the loadout letter to set an icon to it. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/lcoehe/til_you_can_click_a_second_time_on_the_loadout/)
 
-* [On Xbox] Click L3 while walking backwards to spin 180 degrees.
+* [Console] In Options > Controls you can turn on the ability to do a 180 degree turn.
 
 * Cargo crates have a varying chance to spawn based on mission type and length (varies from 7% to 15%). The batteries always spawn in a set radius (30m) of the crate. [Source](https://deeprockgalactic.wiki.gg/wiki/Cargo_Crate)
 
