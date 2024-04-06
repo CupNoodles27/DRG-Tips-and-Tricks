@@ -290,7 +290,7 @@ These tips are useful once you’ve got the basics down.
 
 * All flying enemies instantly die when frozen. This is particularly useful for naedocyte breeders.
 
-* Shellbacks don't stop when frozen, but still take triple damage and can thus be 1-shot with a throwing axe when frozen. Trawlers, flying rocks, BET-C, and Caretaker vents also move normally when frozen, and also take triple damage.
+* Shellbacks, trawlers, flying rocks, BET-C, and Caretaker vents can all be "frozen" - this means they will move as normal, but will still take 3x direct damage.
 
 * Press/hold shift while grinding on a pipe to center your view.
 
@@ -480,7 +480,7 @@ These are niche/fun tips that you probably won't need.
 * If there's something high up you need to mine, grapple + power attack to make a ledge in the wall to stand in, then mine from there.
   * Often with nitra you don’t need a power attack. Since the nitra is so thick, just tap the top of it to make a ledge.
 
-* Using a cryo grenade on a shellback, trawler, BET-C, Caretaker vent, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo nade can make all of them easy to destroy.
+* Using a cryo grenade on a shellback, trawler, BET-C, Caretaker vent, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo grenade can make all of them easy to destroy.
 
 * Enemies that are on fire can spread heat to other nearby enemies. This is useful for white phosphorus shells on the boomstick and aggressive venting on the DRAK. [Example use 1](https://www.reddit.com/r/DeepRockGalactic/comments/rgc005/why_every_scout_should_take_white_phosphorus/), [example use 2](https://www.youtube.com/watch?v=ocQiys-GVco)
 
@@ -893,8 +893,6 @@ I'm not sure of the timing on these since I took a long break.
 * Pickaxe swing canceling used to be much stronger and would let you mine significantly faster. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/azgngb/demonstrating_q_mining/)
 
 * As Scout, you could grapple into the drop pod during extraction, hold onto that grapple, then release after everyone else got locked in place. Then you could move around and leave the pod while everyone else couldn’t.
-
-* You could cryo grenade a regular dreadnought in the face to instantly freeze it. Doesn’t seem to work anymore.
 
 * [?] You could exit the map by shooting platforms at someone who’s standing against a wall. Shoot at their head, then at their feet, then at their knees. Easier to do on a vertical wall, and can be done solo.
 
