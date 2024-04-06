@@ -525,8 +525,6 @@ These are niche/fun tips that you probably won't need.
   * A bug repellant platform will cover some terrain next to the platform with bug repellant as well. Here is a nice [video visualization](https://www.youtube.com/watch?v=m8P3t9qJHu4) of the area that gets the bug repellant. Another [video testing](https://www.youtube.com/watch?v=AiGERlCZ2VY) bug repellant setups.
   * The [pyramid setup](https://www.reddit.com/r/DeepRockGalactic/comments/lbvg8b/to_haz4_engineers/glwl6mx/) works extremely well due to the aforementioned property of bug repellant platforms affecting nearby terrain.
 
-* Hold the reload button to recall your turrets.
-
 * When using two turrets, you can hit the reload button to choose which turret you want to place or relocate.
 
 * Put your platforms above the OMEN platforms by shooting them at a wall behind each OMEN platform. You can stand on them and still activate the OMEN platforms, while avoiding the radial purple lasers. If you place them too low, the lasers will quickly melt away, and if you place them too high, you won't be able to activate the OMEN platforms.
@@ -538,7 +536,7 @@ These are niche/fun tips that you probably won't need.
 
 * You can block leeches with platforms. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/sxor0f/one_day_ill_be_able_to_bring_one_of_these_up_to/)
 
-* If you aren't using the defender system, sentries always idle sweep southwest, regardless of placement or last enemy.
+* If you aren't using the defender system upgrade, your turret will always sweep southwest when idle, regardless of placement or last enemy.
 
 * The PGL can mine minerals. It can also mine things like mule legs and red sugar. This effect is bigger with Fat Boy, but you probably shouldn’t waste Fat Boy shots on minerals.
 
@@ -551,8 +549,6 @@ These are niche/fun tips that you probably won't need.
   * You need at least 37.4 meters of space above you for the grenade to have enough space to come back down. [Source](https://youtu.be/FKLJJ76ADyo)
 
 * If you’re on a steep slope, platforms can make it much easier to stand your ground.
-
-* Build platform towers to provide cover for dreadnought fireballs.
 
 * When you place a platform on minerals, the platform will take one hit to destroy, and so will the minerals. This is useful for ground minerals and does not make you lose any minerals. This will also let you mine mini-MULE legs with one hit.
 
@@ -578,7 +574,7 @@ These are niche/fun tips that you probably won't need.
 
 * You can look and move out-of-bounds. [Example](https://www.youtube.com/watch?v=RMTQlG5In7w)
 
-* If you shoot a platform on something where it will instantly disappear (e.g. a resupply or doretta), if you’re quick, you can still place a turret on that platform. This can let you put down a turret mid-air on top of doretta. You can also do this with prox mines, but this requires tight timing - you need to stand at an angle when shooting the plat so you end up closer to it when throwing the prox mine. [Example](https://youtu.be/lJlbqUkXd8U)
+* If you shoot a platform on something where it will instantly disappear (e.g. a resupply or doretta), if you’re very quick you can place a turret on that platform before it disappears. This can let you put down a turret mid-air on top of doretta. You can also do this with prox mines, but this requires tight timing - you need to stand at an angle when shooting the plat so you end up closer to it when throwing the prox mine. [Example](https://youtu.be/lJlbqUkXd8U)
 
 * Turrets can shoot through walls if you put them close enough to the wall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ss0iav/the_engineer_sentry_gun_seems_to_have_been/)
 
