@@ -173,7 +173,7 @@ These tips are useful once you’ve got the basics down.
 
 * Minigun and Zhukov both use 2 ammo per shot. Keep that in mind when making builds and calculating damage numbers.
 
-* If you have an odd amount of max ammo, the ammo you get from a resupply rounds up to the nearest whole number. For example, if you have 15 PGL shots, resupplies give you 8. There is one exception - if you have 3 max satchel charges, a resupply will only give you 1.
+* If you have an odd amount of max ammo, the ammo you get from a resupply rounds up to the nearest whole number. For example, if you have 15 PGL shots, resupplies give you 8.
 
 * If you move next to the purple swarmer tunnels, several groups of swarmers will spawn there shortly afterwards. If you have area damage, you can spawncamp the swarmers.
 
@@ -861,6 +861,8 @@ This area is for tips that no longer work.
 ### After S3 P13 dead tips
 
 I'm not sure of the timing on these since I took a long break.
+
+* [Intermediate] If you have 3 max satchel charges, a resupply will only give you 1. [Fixed, now it properly gives 2]
 
 * [Fun fact] As driller, you can escape the drop pod by dropping a C4 and spam grabbing it. Same can be done with engi and prox mines. [Example](https://www.youtube.com/watch?v=yYC0dJcIYfA)
 
