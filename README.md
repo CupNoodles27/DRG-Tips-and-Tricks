@@ -160,6 +160,8 @@ These tips are useful once you’ve got the basics down.
 * Spider webs can be removed by any projectile (non-hitscan) that do some form of damage on contact with enemies. For example, the DRAK, crossbow bolts, EPC, impact axes, PGL, and the hurricane can all break webs. Grenades such as impact axes, cryo grenades, plasma bursters, and sticky grenades also work. However, other grenades such as proximity mines, cluster grenades, neurotoxin grenades, and HE grenades don't work, since they don't do any damage on contact with enemies. This list is non-exhaustive.
   * The flare gun is the only exception to this rule that I've found.
 
+* Spider webs are removed by dwarves running through them. They are also removed when any enemy, the MULE, or engi's shredders go through them.
+
 * Many enemies are resistant to some damage types and weak against others. The strengths and weaknesses for every creature can be found [here](https://deeprockgalactic.wiki.gg/wiki/Creatures). These can be very useful to know so you don’t waste ammo. For example, oppressors take 50% increased melee damage, making axes and power attacks better against them. Oppressors also take 66% reduced fire damage, so flamethrowers are less effective.
   * Something else you may not find on the above list are freezing/fire temperatures - the temps at which an enemy gets frozen or set on fire. For example, on the [praetorian](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Praetorian) page, you’ll find that regular praetorians freeze at -150 degrees, while frost praetorians freeze at -250 degrees.
 
