@@ -647,6 +647,8 @@ These are niche/fun tips that you probably won't need.
 
 * You can build pipelines on top of hurricane rockets, letting you build midair. [Example](https://youtu.be/v8TT6ZQQgjM)
 
+* Neurotoxin slows enemies by 30%. This includes dreadnoughts and (ghost) bulk detonators. Gunner is well-suited to constantly apply neurotoxin with Neurotoxin Payload.
+
 </details>
 
 <hr>
