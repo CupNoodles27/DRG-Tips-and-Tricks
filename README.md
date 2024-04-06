@@ -14,6 +14,22 @@ Lastly, there’s plenty of build advice to give in this game, but builds are pr
 
 <hr>
 
+## Bosco tips
+
+* Ping minerals or dirt to have Bosco mine it. Bosco can also mine heavy objects like aquarqs or enor pearls, provide light if you ping on non-minerals, and attack enemies that you ping.
+
+* Shout (press x) to call Bosco to you - if he is holding a heavy object he will drop it, or throw it at you if he's within 10m of you. If he’s mining or shining a light he will also stop doing that and come to you.
+
+* If you ping a heavy object, Bosco will pick it up and carry it to you. This includes aquarqs, enor pearls, jadiz, and even Doretta's head.
+
+* On refinery missions you can ping an existing pipeline to make Bosco build it or repair it.
+
+* Ping the drilldozer or HACK-C to make Bosco prioritize defending them.
+
+* On drilldozer missions, on the last phase of the Ommoran Heartstone fight you can ping the tips of laser beamers to have Bosco mine them.
+
+<hr>
+
 ## General tips
 
 These are things everyone should know and can use all the time.
@@ -25,23 +41,11 @@ These are things everyone should know and can use all the time.
 
 * Hit Tab or M to access the mission map from anywhere in the space rig.
 
-* Ping minerals or dirt to have Bosco mine it. Bosco can also mine & carry heavy objects like aquarqs or enor pearls, provide light if you ping on non-minerals, and attack enemies that you ping.
-
-* Shout (press x) to call bosco to you - if he is holding a heavy object, he will drop it, or throw it at you if he's within 10m of you. If he’s mining or shining a light, he will also stop and go to you.
-
 * Use your terrain scanner to see which way to dig through dirt.
-
-* If you ping a large object (like enor or jadiz), Bosco will pick it up and carry it to you.
 
 * If you see something and don’t know what it is, point your laser pointer at it. It’ll show the name of that thing and you can look it up. Google and the Wiki are your friends.
 
 * When you throw a flare, it inherits your momentum. If you want to throw a flare as far as possible, sprint, jump, and throw throw the flare immediately after starting the jump.
-
-* On refinery missions, ping a pipeline (that has already been laid) to make bosco build it or repair it.
-
-* Ping the drilldozer or HACK-C to make bosco prioritize defending them.
-
-* On drilldozer missions, in the last phase of the ommoran heartstone fight, ping the tips of laser beamers to have Bosco mine them.
 
 * Ctrl+e sets a permanent waypoint that stays on your terrain scanner, and is visible when you pull out your laser pointer
 
@@ -236,7 +240,7 @@ These tips are useful once you’ve got the basics down.
 
 * Buff beer rerolls every time you disband your lobby.
 
-* Pots o' gold and dark morkite only buffs gold mined by the pickaxe, not by bosco, guns, or explosions.
+* Pots o' gold and dark morkite only buffs gold mined by the pickaxe, not by Bosco, guns, or explosions.
 
 * Ping important enemies (e.g. bulks and prospectors) so you can track where they are. This is especially useful for tracking menaces and dreadnought twins, since your ping stays on them after they burrow and reappear.
 
@@ -779,8 +783,6 @@ These are niche/fun tips that you probably won't need.
 * You can slap gunk seeds if you get close to them without shooting them down. [Me doing it](https://www.youtube.com/watch?v=E_R1z3y2xCE)
 
 * You can pet doretta’s head, HACK-C, [Breathers](https://static.wikia.nocookie.net/deeprockgalactic_gamepedia_en/images/c/c1/BF_Breather.png/revision/latest/scale-to-width-down/800?cb=20190312184131) (a.k.a. Pog Plants), and [Cave Vines](https://deeprockgalactic.wiki.gg/wiki/Cave_Vine).
-
-* Bosco can carry Doretta's head.
 
 * HACK-C has RGB lights on his back and drops soda cans and takeout food boxes when activated. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/ruu0on/fun_detail_i_just_noticed_hacksy_drops_soda_cans/)
 
