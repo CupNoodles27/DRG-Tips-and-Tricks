@@ -16,6 +16,9 @@ Lastly, there’s plenty of build advice to give in this game, but builds are pr
 
 ## Bosco tips
 
+<details>
+<summary>Click to expand</summary>
+
 * Ping minerals or dirt to have Bosco mine it. Bosco can also mine heavy objects like aquarqs or enor pearls, provide light if you ping on non-minerals, and attack enemies that you ping.
 
 * Shout (press x) to call Bosco to you - if he is holding a heavy object he will drop it, or throw it at you if he's within 10m of you. If he’s mining or shining a light he will also stop doing that and come to you.
@@ -27,6 +30,8 @@ Lastly, there’s plenty of build advice to give in this game, but builds are pr
 * Ping the drilldozer or HACK-C to make Bosco prioritize defending them.
 
 * On drilldozer missions, on the last phase of the Ommoran Heartstone fight you can ping the tips of laser beamers to have Bosco mine them.
+
+</details>
 
 <hr>
 
