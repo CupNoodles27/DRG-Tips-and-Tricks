@@ -511,8 +511,6 @@ These are niche/fun tips that you probably won't need.
 <details>
 <summary>Click to expand</summary>
 
-* Place turrets on platforms so they can get a better viewing angle. This can help them shoot over ledges or slopes.
-
 * During the heartstone fight, you can cover doretta with a platform roof to block the flying rocks and avoid having to shoot them. Make sure the roof is high enough to avoid rock splash damage, and low enough to catch all the rocks. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/kkqq4e/engineer_heartstone_tech/)
 
 * Shoot the tips of heartstone lasers with your PGL to disable them.
@@ -557,6 +555,8 @@ These are niche/fun tips that you probably won't need.
 * Breach cutter goes through walls.
 
 * Breach cutter benefits from hitting weakpoints. This is especially noticeable for enemies like spitballers and menaces.
+
+* The LOK-1 can be useful for scanning the ceiling for cave leeches.
 
 * Throwing a LURE and then placing a platform or two over the LURE can help protect it against ranged enemies.
 
