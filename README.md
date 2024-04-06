@@ -280,7 +280,7 @@ These tips are useful once you’ve got the basics down.
 
 * You take 1% damage when inside the drop pod during extraction.
 
-* Doretta will always go towards exactly 216 on the in-game compass at the top of your screen. If you decide to pre-drill to the heartstone, this can help.
+* Doretta will always go towards exactly 216 on the in-game compass at the top of your screen. This is helpful to know if you hear a BET-C or a Prospector and want to drill ahead to kill it before starting Doretta.
 
 * Doretta moves faster when more dwarves are near it. You should usually try to stay near or on Doretta.
 
