@@ -455,7 +455,9 @@ These are niche/fun tips that you probably won't need.
 
 * When falling, it is possible (and very difficult) to powerattack the ground, making a ledge that you can grab to break your fall. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/104803m/who_needs_hoverboots_when_you_have_sheer_dwarven/)
 
-* The Caretaker does a large amount of damage to enemies when it dies. [Example](https://clips.twitch.tv/DaintyRenownedGrasshopperKreygasm-7bTCP5w2Xe1WkWK4)
+* The Caretaker does a large amount of damage to enemies when it dies. In [this clip](https://clips.twitch.tv/DaintyRenownedGrasshopperKreygasm-7bTCP5w2Xe1WkWK4) it greatly chunks both Dreadnought Twins.
+
+* You can build pipelines on top of the refinery. [Image](https://imgur.com/a/5NWnqyJ), [video](https://www.youtube.com/watch?v=7RLheoUjWlE)
 
 </details>
 
