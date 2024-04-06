@@ -438,6 +438,8 @@ These are niche/fun tips that you probably won't need.
 
 * You can ride spikes in the hollow bough. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/ul5vjf/anyone_else_know_abt_this_before/)
 
+* You can ride explosive spores in the sandblasted corridors by jumping above them and shooting them. The spore is also pingable when midair, similar to charged EPC shots.
+
 * Enemies can spread fire to other enemies. Setting a praetorian on fire (or some other tanky target, such as Steeve) can help easily wipe out nearby swarmers.
 
 * Slasher Steeve can stun enemies, which can cancel things like praetorian spits.
