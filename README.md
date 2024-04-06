@@ -511,7 +511,9 @@ These are niche/fun tips that you probably won't need.
 
 * With Embedded Detonators on the Zhukov, you can shoot something, switch to a different weapon before the mag runs out, reload the Zhukov with Born Ready, then shoot again. The detonators from before will stay and won’t be triggered. This can let you nuke a dreadnought twin, for example.
 
-* Grapple past a detonator to make it slam and potentially hurt nearby enemies.
+* Grapple past a detonator to make it slam and damage nearby enemies.
+
+* The M1000 can damage/kill a leech if you get grabbed while holding a fully-charged focus shot.
 
 * Allies can ride on your flares. [Example](https://www.reddit.com/r/DeepRockGalactic/comments/sfjg89/u_can_use_flares_as_a_way_to_cross_gaps_and_for/)
 
