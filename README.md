@@ -579,6 +579,8 @@ These are niche/fun tips that you probably won't need.
 
 * The LOK-1 can be useful for scanning the ceiling for cave leeches.
 
+* Although the warthog's crosshair reticle gets wider when moving and sprinting, the bullet spread will remain the same as when you're standing still.
+
 * Throwing a LURE and then placing a platform or two over the LURE can help protect it against ranged enemies.
 
 * Grabbers can grab and carry away a LURE. The Nemesis can also grab LUREs.
