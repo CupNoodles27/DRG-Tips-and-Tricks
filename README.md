@@ -932,7 +932,7 @@ I'm not sure of the timing on these since I took a long break.
 
 [r/technicaldrg](https://www.reddit.com/r/technicaldrg/) for great writeups on weapon builds, breakpoints, and guides on things like animation cancelling, movement, and preventing fall damage.
 
-[How to platform](https://www.youtube.com/watch?v=4CovIeu7-xg)
+[How to platform parkour](https://www.youtube.com/watch?v=4CovIeu7-xg)
 
 [Platform strat](https://steamcommunity.com/sharedfiles/filedetails/?id=1954749278)
 
