@@ -234,6 +234,8 @@ These tips are useful once you’ve got the basics down.
 
 * Currently buff beer is bugged to apply twice. This means pots o’ gold gives 4x gold rather than 2x, dark morkite gives 1.44x morkite instead of 1.2x, red rock blaster gives 1.69x instead of 1.3x, and so on.
 
+* Buff beer rerolls every time you disband your lobby.
+
 * Pots o' gold and dark morkite only buffs gold mined by the pickaxe, not by bosco, guns, or explosions.
 
 * Ping important enemies (e.g. bulks and prospectors) so you can track where they are. This is especially useful for tracking menaces and dreadnought twins, since your ping stays on them after they burrow and reappear.
