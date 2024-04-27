@@ -31,6 +31,8 @@ Lastly, there’s plenty of build advice to give in this game, but builds are pr
 
 * On drilldozer missions, on the last phase of the Ommoran Heartstone fight you can ping the tips of laser beamers to have Bosco mine them.
 
+* Bosco's cryo rocket can freeze a dreadnought hiveguard when all 3 of its flaps are open, since each of the flaps can be affected by the cold and reduce the hiveguard's temperature.
+
 </details>
 
 <hr>
@@ -499,6 +501,8 @@ These are niche/fun tips that you probably won't need.
 
 * Using a cryo grenade on a shellback, trawler, BET-C, Caretaker vent, or flying rock will instantly give each of these the "frozen" effect where they will take 3x damage, although unlike most other enemies they will still move like normal. This is especially useful for flying rocks - if there's a bunch of rocks hovering over the drilldozer, one cryo grenade can make all of them easy to destroy.
 
+* A cryo grenade can instantly freeze a hiveguard when all 3 of its flaps are open, since each of the flaps can be affected by the cold and reduce the hiveguard's temperature.
+
 * Enemies that are on fire can spread heat to other nearby enemies. This is useful for white phosphorus shells on the boomstick and aggressive venting on the DRAK. [Example use 1](https://www.reddit.com/r/DeepRockGalactic/comments/rgc005/why_every_scout_should_take_white_phosphorus/), [example use 2](https://www.youtube.com/watch?v=ocQiys-GVco)
 
 * You can "reload" your grappling hook right before firing it. Doesn’t really do anything, but looks cool. [Example](https://youtu.be/UJWdpC4YRPw)
@@ -726,6 +730,8 @@ These are niche/fun tips that you probably won't need.
 * Robots instantly die when set on fire. This includes patrol bots, burst turrets, and sniper turrets.
 
 * If you need to freeze an enemy with the cryo cannon, shoot through the enemy towards the ground. The cryo cannon leaves a trail on the ground that helps freeze enemies and prevents them from unfreezing.
+
+* You can very quickly freeze a hiveguard by hitting multiple of its flaps at the same time with the cryo cannon, since each of the flaps can be affected by the cold and reduce the hiveguard's temperature.
 
 * The “bunker” is a common strategy where you drill into a wall, then make a large area (usually with C4 + blast radius upgrade) where you can stand and wait for enemies to funnel in. You can use it if you’re struggling on a mission.
   * However, it also detracts from building good combat habits (since you don’t need to kite enemies), and if a bulk shows up, you’ll have to drill a different path out.
