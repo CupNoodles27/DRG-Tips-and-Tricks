@@ -335,8 +335,6 @@ These tips are useful once you’ve got the basics down.
 
 * Thorns has an internal cooldown of 0.75s. So it's not amazing if there's a ton of swarmers on you. [Source](https://deeprockgalactic.wiki.gg/wiki/Thorns)
 
-* [?] If the hiveguard glitches and won't spawn sentinels, get your whole team to stand around it and melee attack it together to unglitch it. [Source](https://www.reddit.com/r/DeepRockGalactic/comments/sfjl3e/im_lvl_91_and_still_learn_new_things_about_this/huq6gv5/)
-
 * You can permanently destroy spiky vines in the hollow bough by power attacking them. You can still damage them when they retract - use your pickaxe or the drills, since they’re especially weak against melee damage. If you use a conventional weapon, you’ll waste a lot of ammo before the vine is destroyed.
   * If you dig out the terrain from under the root of the vine, it’ll also be destroyed.
 
