@@ -31,6 +31,8 @@ Lastly, there’s plenty of build advice to give in this game, but builds are pr
 
 * On drilldozer missions, on the last phase of the Ommoran Heartstone fight you can ping the tips of laser beamers to have Bosco mine them.
 
+* If there's oil shale in an inconvenient spot, Bosco can mine it down oil shale if you ping it.
+
 * Bosco's cryo rocket can freeze a dreadnought hiveguard when all 3 of its flaps are open, since each of the flaps can be affected by the cold and reduce the hiveguard's temperature.
 
 </details>
